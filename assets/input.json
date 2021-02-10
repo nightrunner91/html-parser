@@ -6,12 +6,11 @@
     "filmDuration": 147,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/89Ja",
     "refreshed": false,
     "id": 9534217965,
-    "progress": 100,
-    "hours": 4.5
+    "hours": 7.3
   },
   {
     "category": "films",
@@ -24,7 +23,6 @@
     "link": "https://boxd.it/9fOC",
     "refreshed": false,
     "id": 3711809153,
-    "progress": 100,
     "hours": 3.6
   },
   {
@@ -38,8 +36,7 @@
     "link": "https://boxd.it/8H5e",
     "refreshed": false,
     "id": 7563211790,
-    "progress": 100,
-    "hours": null
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -51,19 +48,21 @@
     "favourite": false,
     "link": "https://boxd.it/4vru",
     "refreshed": false,
-    "id": 9219356732
+    "id": 9219356732,
+    "hours": 2.3
   },
   {
     "category": "films",
     "title": "X-Men: Days of Future Past",
     "status": "completed",
     "filmDuration": 131,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/4aRw",
     "refreshed": false,
-    "id": 2511849537
+    "id": 2511849537,
+    "hours": 4.4
   },
   {
     "category": "films",
@@ -75,7 +74,8 @@
     "favourite": false,
     "link": "https://boxd.it/8SeG",
     "refreshed": false,
-    "id": 1460620984
+    "id": 1460620984,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -88,8 +88,7 @@
     "link": "https://boxd.it/3vmW",
     "refreshed": false,
     "id": 9851873718,
-    "progress": 100,
-    "hours": 1.4
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -102,7 +101,6 @@
     "link": "https://boxd.it/7T2k",
     "refreshed": false,
     "id": 4751801958,
-    "progress": 100,
     "hours": 1.8
   },
   {
@@ -110,12 +108,13 @@
     "title": "The Dark Knight",
     "status": "completed",
     "filmDuration": 152,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/2b0k",
     "refreshed": false,
-    "id": 3294115149
+    "id": 3294115149,
+    "hours": 5.1
   },
   {
     "category": "films",
@@ -127,7 +126,8 @@
     "favourite": false,
     "link": "https://boxd.it/3VH2",
     "refreshed": false,
-    "id": 8807688926
+    "id": 8807688926,
+    "hours": 2
   },
   {
     "category": "films",
@@ -140,8 +140,7 @@
     "link": "https://boxd.it/3C1m",
     "refreshed": false,
     "id": 9627489243,
-    "progress": 100,
-    "hours": null
+    "hours": 3
   },
   {
     "category": "films",
@@ -154,8 +153,7 @@
     "link": "https://boxd.it/6fBW",
     "refreshed": false,
     "id": 7169291487,
-    "progress": 100,
-    "hours": 4.2
+    "hours": 5.1
   },
   {
     "category": "films",
@@ -164,12 +162,11 @@
     "filmDuration": 136,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/3r58",
     "refreshed": false,
     "id": 5531608203,
-    "progress": 100,
-    "hours": 5.3
+    "hours": 6.8
   },
   {
     "category": "films",
@@ -182,8 +179,7 @@
     "link": "https://boxd.it/1xFW",
     "refreshed": false,
     "id": 1940687640,
-    "progress": 100,
-    "hours": null
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -196,8 +192,7 @@
     "link": "https://boxd.it/a2qk",
     "refreshed": false,
     "id": 7061370666,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -210,8 +205,7 @@
     "link": "https://boxd.it/2cCk",
     "refreshed": false,
     "id": 6978646743,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -223,7 +217,8 @@
     "favourite": false,
     "link": "https://boxd.it/17ue",
     "refreshed": false,
-    "id": 4536634059
+    "id": 4536634059,
+    "hours": 2
   },
   {
     "category": "films",
@@ -236,8 +231,7 @@
     "link": "https://boxd.it/3qi6",
     "refreshed": false,
     "id": 9125119028,
-    "progress": 100,
-    "hours": 3.3
+    "hours": 4.7
   },
   {
     "category": "films",
@@ -250,8 +244,7 @@
     "link": "https://boxd.it/1JzG",
     "refreshed": false,
     "id": 639153844,
-    "progress": 100,
-    "hours": null
+    "hours": 5.1
   },
   {
     "category": "films",
@@ -263,19 +256,21 @@
     "favourite": false,
     "link": "https://boxd.it/2b5O",
     "refreshed": false,
-    "id": 8024442903
+    "id": 8024442903,
+    "hours": 3
   },
   {
     "category": "films",
     "title": "The Matrix",
     "status": "completed",
     "filmDuration": 136,
-    "rewatchedCounter": 1,
-    "rating": 3,
+    "rewatchedCounter": 2,
+    "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/2a1m",
     "refreshed": false,
-    "id": 1714572123
+    "id": 1714572123,
+    "hours": 4.5
   },
   {
     "category": "films",
@@ -284,10 +279,11 @@
     "filmDuration": 127,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/29zs",
     "refreshed": false,
-    "id": 3968278363
+    "id": 3968278363,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -299,7 +295,8 @@
     "favourite": false,
     "link": "https://boxd.it/70w",
     "refreshed": false,
-    "id": 1730705605
+    "id": 1730705605,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -311,45 +308,47 @@
     "favourite": false,
     "link": "https://boxd.it/4n0g",
     "refreshed": false,
-    "id": 6362685991
+    "id": 6362685991,
+    "hours": 2.1
   },
   {
     "category": "films",
     "title": "Iron Man",
     "status": "completed",
     "filmDuration": 126,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 3,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/28dA",
     "refreshed": false,
-    "id": 8310629598
+    "id": 8310629598,
+    "hours": 6.3
   },
   {
     "category": "films",
     "title": "The Dark Knight Rises",
     "status": "completed",
     "filmDuration": 165,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/H3m",
     "refreshed": false,
-    "id": 3340591035
+    "id": 3340591035,
+    "hours": 5.5
   },
   {
     "category": "films",
     "title": "Captain America: The First Avenger",
     "status": "completed",
     "filmDuration": 124,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/28b0",
     "refreshed": false,
     "id": 372019384,
-    "progress": 100,
-    "hours": 2
+    "hours": 4.1
   },
   {
     "category": "films",
@@ -361,21 +360,21 @@
     "favourite": false,
     "link": "https://boxd.it/2b5u",
     "refreshed": false,
-    "id": 7069921480
+    "id": 7069921480,
+    "hours": 3.4
   },
   {
     "category": "films",
     "title": "The Wolverine",
     "status": "completed",
     "filmDuration": 126,
-    "rewatchedCounter": 4,
+    "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2CWU",
     "refreshed": false,
     "id": 8464091875,
-    "progress": 100,
-    "hours": null
+    "hours": 6.3
   },
   {
     "category": "films",
@@ -388,20 +387,20 @@
     "link": "https://boxd.it/728",
     "refreshed": false,
     "id": 2181942578,
-    "progress": 100,
-    "hours": 4.4
+    "hours": 4.7
   },
   {
     "category": "films",
     "title": "Iron Man 3",
     "status": "completed",
     "filmDuration": 130,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 3,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2cBQ",
     "refreshed": false,
-    "id": 7316662249
+    "id": 7316662249,
+    "hours": 6.5
   },
   {
     "category": "films",
@@ -414,8 +413,7 @@
     "link": "https://boxd.it/2aIg",
     "refreshed": false,
     "id": 9006621979,
-    "progress": 100,
-    "hours": 6.3
+    "hours": 7
   },
   {
     "category": "films",
@@ -427,7 +425,8 @@
     "favourite": false,
     "link": "https://boxd.it/201Q",
     "refreshed": false,
-    "id": 5752600916
+    "id": 5752600916,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -436,24 +435,24 @@
     "filmDuration": 113,
     "rewatchedCounter": 2,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/4pD0",
     "refreshed": false,
     "id": 4648637025,
-    "progress": 100,
-    "hours": 3.4
+    "hours": 3.8
   },
   {
     "category": "films",
     "title": "Saving Private Ryan",
     "status": "completed",
     "filmDuration": 169,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/29ro",
     "refreshed": false,
-    "id": 8455697340
+    "id": 8455697340,
+    "hours": 5.6
   },
   {
     "category": "films",
@@ -465,7 +464,8 @@
     "favourite": false,
     "link": "https://boxd.it/2b5E",
     "refreshed": false,
-    "id": 7062970000
+    "id": 7062970000,
+    "hours": 3
   },
   {
     "category": "films",
@@ -478,8 +478,7 @@
     "link": "https://boxd.it/1Efm",
     "refreshed": false,
     "id": 974128480,
-    "progress": 100,
-    "hours": 1.5
+    "hours": 2.7
   },
   {
     "category": "films",
@@ -491,7 +490,8 @@
     "favourite": false,
     "link": "https://boxd.it/293w",
     "refreshed": false,
-    "id": 748232944
+    "id": 748232944,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -503,7 +503,8 @@
     "favourite": false,
     "link": "https://boxd.it/1U82",
     "refreshed": false,
-    "id": 5069632024
+    "id": 5069632024,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -515,7 +516,8 @@
     "favourite": false,
     "link": "https://boxd.it/27ug",
     "refreshed": false,
-    "id": 521328888
+    "id": 521328888,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -527,7 +529,8 @@
     "favourite": false,
     "link": "https://boxd.it/1WQU",
     "refreshed": false,
-    "id": 2054115946
+    "id": 2054115946,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -539,7 +542,8 @@
     "favourite": false,
     "link": "https://boxd.it/2a2k",
     "refreshed": false,
-    "id": 7884963922
+    "id": 7884963922,
+    "hours": 3.2
   },
   {
     "category": "films",
@@ -551,7 +555,8 @@
     "favourite": false,
     "link": "https://boxd.it/2uds",
     "refreshed": false,
-    "id": 1574541896
+    "id": 1574541896,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -560,12 +565,11 @@
     "filmDuration": 163,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1QE4",
     "refreshed": false,
     "id": 9792414432,
-    "progress": 100,
-    "hours": null
+    "hours": 8.2
   },
   {
     "category": "films",
@@ -577,19 +581,21 @@
     "favourite": false,
     "link": "https://boxd.it/7dEc",
     "refreshed": false,
-    "id": 650261372
+    "id": 650261372,
+    "hours": 1.7
   },
   {
     "category": "films",
     "title": "Harry Potter and the Prisoner of Azkaban",
     "status": "completed",
     "filmDuration": 141,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29Qy",
     "refreshed": false,
-    "id": 8701315194
+    "id": 8701315194,
+    "hours": 4.7
   },
   {
     "category": "films",
@@ -601,31 +607,34 @@
     "favourite": false,
     "link": "https://boxd.it/17Fc",
     "refreshed": false,
-    "id": 57539020
+    "id": 57539020,
+    "hours": 2.4
   },
   {
     "category": "films",
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "status": "completed",
     "filmDuration": 130,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1RYk",
     "refreshed": false,
-    "id": 3153883048
+    "id": 3153883048,
+    "hours": 4.3
   },
   {
     "category": "films",
     "title": "Lucy",
     "status": "completed",
     "filmDuration": 89,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/75hu",
     "refreshed": false,
-    "id": 4848518178
+    "id": 4848518178,
+    "hours": 3
   },
   {
     "category": "films",
@@ -637,19 +646,21 @@
     "favourite": false,
     "link": "https://boxd.it/6bXY",
     "refreshed": false,
-    "id": 7524129830
+    "id": 7524129830,
+    "hours": 2.5
   },
   {
     "category": "films",
     "title": "The Terminator",
     "status": "completed",
     "filmDuration": 108,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2aQY",
     "refreshed": false,
-    "id": 8545251
+    "id": 8545251,
+    "hours": 3.6
   },
   {
     "category": "films",
@@ -662,8 +673,7 @@
     "link": "https://boxd.it/2a7u",
     "refreshed": false,
     "id": 4743748667,
-    "progress": 100,
-    "hours": 1.5
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -676,8 +686,7 @@
     "link": "https://boxd.it/2b8S",
     "refreshed": false,
     "id": 9933655905,
-    "progress": 100,
-    "hours": null
+    "hours": 3.7
   },
   {
     "category": "films",
@@ -686,12 +695,11 @@
     "filmDuration": 127,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2a88",
     "refreshed": false,
     "id": 4298384312,
-    "progress": 100,
-    "hours": null
+    "hours": 6.3
   },
   {
     "category": "films",
@@ -703,19 +711,21 @@
     "favourite": false,
     "link": "https://boxd.it/29Ik",
     "refreshed": false,
-    "id": 8645267113
+    "id": 8645267113,
+    "hours": 2.2
   },
   {
     "category": "films",
     "title": "Terminator 2: Judgment Day",
     "status": "completed",
     "filmDuration": 137,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/2aGY",
     "refreshed": false,
-    "id": 6199281559
+    "id": 6199281559,
+    "hours": 4.6
   },
   {
     "category": "films",
@@ -724,12 +734,11 @@
     "filmDuration": 121,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2a8i",
     "refreshed": false,
     "id": 6716860929,
-    "progress": 100,
-    "hours": null
+    "hours": 6
   },
   {
     "category": "films",
@@ -741,19 +750,21 @@
     "favourite": false,
     "link": "https://boxd.it/5rI4",
     "refreshed": false,
-    "id": 3673604337
+    "id": 3673604337,
+    "hours": 2.2
   },
   {
     "category": "films",
     "title": "Iron Man 2",
     "status": "completed",
     "filmDuration": 124,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 3,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1WZM",
     "refreshed": false,
-    "id": 3352628173
+    "id": 3352628173,
+    "hours": 6.2
   },
   {
     "category": "films",
@@ -765,7 +776,8 @@
     "favourite": false,
     "link": "https://boxd.it/2cB2",
     "refreshed": false,
-    "id": 6685109658
+    "id": 6685109658,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -778,8 +790,7 @@
     "link": "https://boxd.it/29VS",
     "refreshed": false,
     "id": 1444542757,
-    "progress": 100,
-    "hours": 2
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -787,12 +798,11 @@
     "status": "completed",
     "filmDuration": 155,
     "rewatchedCounter": 1,
-    "rating": 3,
+    "rating": 4,
     "favourite": true,
     "link": "https://boxd.it/2b9m",
     "refreshed": false,
     "id": 3492187706,
-    "progress": 100,
     "hours": 2.6
   },
   {
@@ -805,7 +815,8 @@
     "favourite": false,
     "link": "https://boxd.it/1zaQ",
     "refreshed": false,
-    "id": 851290114
+    "id": 851290114,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -817,7 +828,8 @@
     "favourite": false,
     "link": "https://boxd.it/27PI",
     "refreshed": false,
-    "id": 539474417
+    "id": 539474417,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -829,7 +841,8 @@
     "favourite": false,
     "link": "https://boxd.it/uYE",
     "refreshed": false,
-    "id": 3408623463
+    "id": 3408623463,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -841,7 +854,8 @@
     "favourite": false,
     "link": "https://boxd.it/GZk",
     "refreshed": false,
-    "id": 4144303036
+    "id": 4144303036,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -850,12 +864,11 @@
     "filmDuration": 144,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1alk",
     "refreshed": false,
     "id": 7421893550,
-    "progress": 100,
-    "hours": 3.8
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -868,8 +881,7 @@
     "link": "https://boxd.it/3XyQ",
     "refreshed": false,
     "id": 1629895764,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -882,8 +894,7 @@
     "link": "https://boxd.it/2aXU",
     "refreshed": false,
     "id": 6998922490,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -895,7 +906,8 @@
     "favourite": false,
     "link": "https://boxd.it/3utM",
     "refreshed": false,
-    "id": 536282681
+    "id": 536282681,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -907,7 +919,8 @@
     "favourite": false,
     "link": "https://boxd.it/2p2E",
     "refreshed": false,
-    "id": 6655723809
+    "id": 6655723809,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -919,7 +932,8 @@
     "favourite": false,
     "link": "https://boxd.it/43aU",
     "refreshed": false,
-    "id": 8174519793
+    "id": 8174519793,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -928,12 +942,11 @@
     "filmDuration": 139,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2a7Y",
     "refreshed": false,
     "id": 1828872058,
-    "progress": 100,
-    "hours": null
+    "hours": 7
   },
   {
     "category": "films",
@@ -945,7 +958,8 @@
     "favourite": false,
     "link": "https://boxd.it/28dU",
     "refreshed": false,
-    "id": 1116155658
+    "id": 1116155658,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -958,12 +972,11 @@
     "link": "https://boxd.it/GZE",
     "refreshed": false,
     "id": 5095508563,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.6
   },
   {
     "category": "films",
-    "title": "RoboCop",
+    "title": "RoboCop (1987)",
     "status": "completed",
     "filmDuration": 102,
     "rewatchedCounter": 1,
@@ -971,19 +984,21 @@
     "favourite": false,
     "link": "https://boxd.it/22Wu",
     "refreshed": false,
-    "id": 550670932
+    "id": 550670932,
+    "hours": 1.7
   },
   {
     "category": "films",
     "title": "Home Alone",
     "status": "completed",
     "filmDuration": 103,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29Fg",
     "refreshed": false,
-    "id": 1508663142
+    "id": 1508663142,
+    "hours": 3.4
   },
   {
     "category": "films",
@@ -995,7 +1010,8 @@
     "favourite": false,
     "link": "https://boxd.it/2bfk",
     "refreshed": false,
-    "id": 4319605640
+    "id": 4319605640,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -1007,7 +1023,8 @@
     "favourite": false,
     "link": "https://boxd.it/2b84",
     "refreshed": false,
-    "id": 1571895929
+    "id": 1571895929,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1019,7 +1036,8 @@
     "favourite": false,
     "link": "https://boxd.it/35s0",
     "refreshed": false,
-    "id": 410266767
+    "id": 410266767,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1031,21 +1049,21 @@
     "favourite": false,
     "link": "https://boxd.it/cS4",
     "refreshed": false,
-    "id": 1682455295
+    "id": 1682455295,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "Cast Away",
     "status": "completed",
     "filmDuration": 143,
-    "rewatchedCounter": 3,
+    "rewatchedCounter": 2,
     "rating": 5,
     "favourite": true,
     "link": "https://boxd.it/20i8",
     "refreshed": false,
     "id": 3433025308,
-    "progress": 100,
-    "hours": 6
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -1057,7 +1075,8 @@
     "favourite": false,
     "link": "https://boxd.it/1W2A",
     "refreshed": false,
-    "id": 3116633438
+    "id": 3116633438,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1066,12 +1085,11 @@
     "filmDuration": 117,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/28XI",
     "refreshed": false,
     "id": 2070165558,
-    "progress": 100,
-    "hours": 7.7
+    "hours": 5.8
   },
   {
     "category": "films",
@@ -1083,19 +1101,21 @@
     "favourite": false,
     "link": "https://boxd.it/26EO",
     "refreshed": false,
-    "id": 9520423947
+    "id": 9520423947,
+    "hours": 2
   },
   {
     "category": "films",
     "title": "I Am Legend",
     "status": "completed",
     "filmDuration": 101,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 3,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/21DG",
     "refreshed": false,
-    "id": 6177079849
+    "id": 6177079849,
+    "hours": 5
   },
   {
     "category": "films",
@@ -1107,7 +1127,8 @@
     "favourite": false,
     "link": "https://boxd.it/3v1u",
     "refreshed": false,
-    "id": 1248847899
+    "id": 1248847899,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -1119,7 +1140,8 @@
     "favourite": false,
     "link": "https://boxd.it/26vC",
     "refreshed": false,
-    "id": 4774016174
+    "id": 4774016174,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1131,11 +1153,12 @@
     "favourite": false,
     "link": "https://boxd.it/4Xg0",
     "refreshed": false,
-    "id": 1915143957
+    "id": 1915143957,
+    "hours": 1.4
   },
   {
     "category": "films",
-    "title": "The Mummy",
+    "title": "The Mummy (1999)",
     "status": "completed",
     "filmDuration": 124,
     "rewatchedCounter": 2,
@@ -1144,8 +1167,7 @@
     "link": "https://boxd.it/2a7a",
     "refreshed": false,
     "id": 3814583068,
-    "progress": 100,
-    "hours": null
+    "hours": 4.1
   },
   {
     "category": "films",
@@ -1157,7 +1179,8 @@
     "favourite": false,
     "link": "https://boxd.it/psI",
     "refreshed": false,
-    "id": 6102441958
+    "id": 6102441958,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -1170,8 +1193,7 @@
     "link": "https://boxd.it/1GM8",
     "refreshed": false,
     "id": 1354400386,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -1183,7 +1205,8 @@
     "favourite": false,
     "link": "https://boxd.it/2FT0",
     "refreshed": false,
-    "id": 442523332
+    "id": 442523332,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1196,8 +1219,7 @@
     "link": "https://boxd.it/7r7Q",
     "refreshed": false,
     "id": 9375991708,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 2
   },
   {
     "category": "films",
@@ -1209,7 +1231,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Qzy",
     "refreshed": false,
-    "id": 1622292657
+    "id": 1622292657,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1221,7 +1244,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Vs8",
     "refreshed": false,
-    "id": 9815814171
+    "id": 9815814171,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1230,12 +1254,11 @@
     "filmDuration": 109,
     "rewatchedCounter": 2,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2cBm",
     "refreshed": false,
     "id": 4871880157,
-    "progress": 100,
-    "hours": 3.8
+    "hours": 3.6
   },
   {
     "category": "films",
@@ -1247,7 +1270,8 @@
     "favourite": false,
     "link": "https://boxd.it/26Eu",
     "refreshed": false,
-    "id": 9890368551
+    "id": 9890368551,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1259,7 +1283,8 @@
     "favourite": false,
     "link": "https://boxd.it/27y8",
     "refreshed": false,
-    "id": 8819618968
+    "id": 8819618968,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1271,19 +1296,21 @@
     "favourite": false,
     "link": "https://boxd.it/PP4",
     "refreshed": false,
-    "id": 6675837915
+    "id": 6675837915,
+    "hours": 1.9
   },
   {
     "category": "films",
     "title": "Sherlock Holmes: A Game of Shadows",
     "status": "completed",
     "filmDuration": 129,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/k3S",
     "refreshed": false,
-    "id": 784455488
+    "id": 784455488,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -1296,8 +1323,7 @@
     "link": "https://boxd.it/13rq",
     "refreshed": false,
     "id": 1281467371,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1309,19 +1335,21 @@
     "favourite": false,
     "link": "https://boxd.it/hqu",
     "refreshed": false,
-    "id": 9363260725
+    "id": 9363260725,
+    "hours": 1.7
   },
   {
     "category": "films",
     "title": "The Matrix Revolutions",
     "status": "completed",
     "filmDuration": 129,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/2a12",
     "refreshed": false,
-    "id": 1410389264
+    "id": 1410389264,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -1333,7 +1361,8 @@
     "favourite": false,
     "link": "https://boxd.it/27Z4",
     "refreshed": false,
-    "id": 4011141070
+    "id": 4011141070,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1345,19 +1374,21 @@
     "favourite": false,
     "link": "https://boxd.it/26EE",
     "refreshed": false,
-    "id": 8007108447
+    "id": 8007108447,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "The Butterfly Effect",
     "status": "completed",
     "filmDuration": 113,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/27M0",
     "refreshed": false,
-    "id": 2987789623
+    "id": 2987789623,
+    "hours": 3.8
   },
   {
     "category": "films",
@@ -1370,8 +1401,7 @@
     "link": "https://boxd.it/6qLo",
     "refreshed": false,
     "id": 1687651183,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1384,8 +1414,7 @@
     "link": "https://boxd.it/1YzG",
     "refreshed": false,
     "id": 4460911913,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1398,8 +1427,7 @@
     "link": "https://boxd.it/29I0",
     "refreshed": false,
     "id": 900867207,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1411,19 +1439,21 @@
     "favourite": false,
     "link": "https://boxd.it/103U",
     "refreshed": false,
-    "id": 3585801978
+    "id": 3585801978,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "Hancock",
     "status": "completed",
     "filmDuration": 92,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1Zv6",
     "refreshed": false,
-    "id": 9767477776
+    "id": 9767477776,
+    "hours": 3.1
   },
   {
     "category": "films",
@@ -1435,7 +1465,8 @@
     "favourite": false,
     "link": "https://boxd.it/34QA",
     "refreshed": false,
-    "id": 6075428717
+    "id": 6075428717,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1447,7 +1478,8 @@
     "favourite": false,
     "link": "https://boxd.it/1XVc",
     "refreshed": false,
-    "id": 8828009068
+    "id": 8828009068,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -1460,8 +1492,7 @@
     "link": "https://boxd.it/BgO",
     "refreshed": false,
     "id": 7427607191,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -1473,7 +1504,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Efw",
     "refreshed": false,
-    "id": 6471805211
+    "id": 6471805211,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1486,8 +1518,7 @@
     "link": "https://boxd.it/28zG",
     "refreshed": false,
     "id": 6657339006,
-    "progress": 100,
-    "hours": 2
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1499,7 +1530,8 @@
     "favourite": false,
     "link": "https://boxd.it/G36",
     "refreshed": false,
-    "id": 8499548516
+    "id": 8499548516,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -1512,8 +1544,7 @@
     "link": "https://boxd.it/2a6G",
     "refreshed": false,
     "id": 3398862785,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1526,20 +1557,20 @@
     "link": "https://boxd.it/27Ii",
     "refreshed": false,
     "id": 2248530630,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.5
   },
   {
     "category": "films",
     "title": "The Fast and the Furious",
     "status": "completed",
     "filmDuration": 106,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/1XMu",
     "refreshed": false,
-    "id": 9406394897
+    "id": 9406394897,
+    "hours": 3.5
   },
   {
     "category": "films",
@@ -1551,7 +1582,8 @@
     "favourite": false,
     "link": "https://boxd.it/QN4",
     "refreshed": false,
-    "id": 9173896570
+    "id": 9173896570,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1563,7 +1595,8 @@
     "favourite": false,
     "link": "https://boxd.it/8EBw",
     "refreshed": false,
-    "id": 1363668480
+    "id": 1363668480,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1576,8 +1609,8 @@
     "link": "https://boxd.it/1OE2",
     "refreshed": false,
     "id": 4000612568,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.6,
+    "progress": 100
   },
   {
     "category": "films",
@@ -1590,8 +1623,7 @@
     "link": "https://boxd.it/28Bi",
     "refreshed": false,
     "id": 4800610814,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1603,7 +1635,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aES",
     "refreshed": false,
-    "id": 8037283767
+    "id": 8037283767,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1612,12 +1645,11 @@
     "filmDuration": 109,
     "rewatchedCounter": 2,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/FPS",
     "refreshed": false,
     "id": 9695878785,
-    "progress": 100,
-    "hours": null
+    "hours": 3.6
   },
   {
     "category": "films",
@@ -1629,7 +1661,8 @@
     "favourite": false,
     "link": "https://boxd.it/28H6",
     "refreshed": false,
-    "id": 6511319207
+    "id": 6511319207,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1641,11 +1674,12 @@
     "favourite": false,
     "link": "https://boxd.it/29TW",
     "refreshed": false,
-    "id": 6220310838
+    "id": 6220310838,
+    "hours": 2.7
   },
   {
     "category": "films",
-    "title": "RoboCop",
+    "title": "RoboCop (2014)",
     "status": "completed",
     "filmDuration": 118,
     "rewatchedCounter": 1,
@@ -1653,7 +1687,8 @@
     "favourite": false,
     "link": "https://boxd.it/3m4k",
     "refreshed": false,
-    "id": 8732080292
+    "id": 8732080292,
+    "hours": 2
   },
   {
     "category": "films",
@@ -1665,7 +1700,8 @@
     "favourite": false,
     "link": "https://boxd.it/2xZE",
     "refreshed": false,
-    "id": 3205857219
+    "id": 3205857219,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1678,8 +1714,8 @@
     "link": "https://boxd.it/25Vu",
     "refreshed": false,
     "id": 6015732695,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.7,
+    "progress": 100
   },
   {
     "category": "films",
@@ -1691,7 +1727,8 @@
     "favourite": false,
     "link": "https://boxd.it/1rtA",
     "refreshed": false,
-    "id": 2358384336
+    "id": 2358384336,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1700,12 +1737,11 @@
     "filmDuration": 107,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/211s",
     "refreshed": false,
     "id": 6443396779,
-    "progress": 100,
-    "hours": 3.2
+    "hours": 3.6
   },
   {
     "category": "films",
@@ -1718,7 +1754,6 @@
     "link": "https://boxd.it/4kC2",
     "refreshed": false,
     "id": 4014129637,
-    "progress": 100,
     "hours": 1.7
   },
   {
@@ -1732,8 +1767,8 @@
     "link": "https://boxd.it/2a4g",
     "refreshed": false,
     "id": 3470234346,
-    "progress": 100,
-    "hours": 4.8
+    "hours": 5.3,
+    "progress": 100
   },
   {
     "category": "films",
@@ -1746,8 +1781,7 @@
     "link": "https://boxd.it/1Pnm",
     "refreshed": false,
     "id": 6658799318,
-    "progress": 100,
-    "hours": 5.2
+    "hours": 5.3
   },
   {
     "category": "films",
@@ -1756,12 +1790,11 @@
     "filmDuration": 105,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/Aly",
     "refreshed": false,
     "id": 6697497225,
-    "progress": 100,
-    "hours": null
+    "hours": 5.3
   },
   {
     "category": "films",
@@ -1774,8 +1807,7 @@
     "link": "https://boxd.it/28zw",
     "refreshed": false,
     "id": 9916865855,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -1788,8 +1820,7 @@
     "link": "https://boxd.it/1Q9K",
     "refreshed": false,
     "id": 5351917496,
-    "progress": 100,
-    "hours": 1.6
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1802,8 +1833,8 @@
     "link": "https://boxd.it/1Jnq",
     "refreshed": false,
     "id": 9830526678,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.7,
+    "progress": 100
   },
   {
     "category": "films",
@@ -1815,7 +1846,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Pmy",
     "refreshed": false,
-    "id": 6901418876
+    "id": 6901418876,
+    "hours": 2
   },
   {
     "category": "films",
@@ -1828,8 +1860,7 @@
     "link": "https://boxd.it/xaC",
     "refreshed": false,
     "id": 4132440359,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1841,7 +1872,8 @@
     "favourite": false,
     "link": "https://boxd.it/27G2",
     "refreshed": false,
-    "id": 1296607661
+    "id": 1296607661,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1854,8 +1886,7 @@
     "link": "https://boxd.it/JrK",
     "refreshed": false,
     "id": 5517211138,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -1867,7 +1898,8 @@
     "favourite": false,
     "link": "https://boxd.it/29q6",
     "refreshed": false,
-    "id": 127258690
+    "id": 127258690,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -1879,7 +1911,8 @@
     "favourite": false,
     "link": "https://boxd.it/1D6o",
     "refreshed": false,
-    "id": 1446289223
+    "id": 1446289223,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -1888,12 +1921,11 @@
     "filmDuration": 111,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1icK",
     "refreshed": false,
     "id": 8777605577,
-    "progress": 100,
-    "hours": null
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1902,12 +1934,11 @@
     "filmDuration": 119,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/4VSQ",
     "refreshed": false,
     "id": 4258756416,
-    "progress": 100,
-    "hours": null
+    "hours": 2
   },
   {
     "category": "films",
@@ -1920,8 +1951,7 @@
     "link": "https://boxd.it/1a8q",
     "refreshed": false,
     "id": 1184718087,
-    "progress": 100,
-    "hours": 2.2
+    "hours": 2
   },
   {
     "category": "films",
@@ -1934,8 +1964,7 @@
     "link": "https://boxd.it/1XME",
     "refreshed": false,
     "id": 3808254942,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -1947,7 +1976,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aZm",
     "refreshed": false,
-    "id": 2823537544
+    "id": 2823537544,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1960,8 +1990,7 @@
     "link": "https://boxd.it/2o6A",
     "refreshed": false,
     "id": 2581727063,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -1973,7 +2002,8 @@
     "favourite": false,
     "link": "https://boxd.it/2DqA",
     "refreshed": false,
-    "id": 8882724222
+    "id": 8882724222,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -1985,7 +2015,8 @@
     "favourite": false,
     "link": "https://boxd.it/1skk",
     "refreshed": false,
-    "id": 2590949059
+    "id": 2590949059,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -1997,7 +2028,8 @@
     "favourite": false,
     "link": "https://boxd.it/28Xy",
     "refreshed": false,
-    "id": 8481232502
+    "id": 8481232502,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2010,7 +2042,6 @@
     "link": "https://boxd.it/2TSg",
     "refreshed": false,
     "id": 3061222558,
-    "progress": 100,
     "hours": 1.7
   },
   {
@@ -2024,8 +2055,7 @@
     "link": "https://boxd.it/1YB8",
     "refreshed": false,
     "id": 6462551591,
-    "progress": 100,
-    "hours": 4.3
+    "hours": 3.5
   },
   {
     "category": "films",
@@ -2037,7 +2067,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Y4y",
     "refreshed": false,
-    "id": 8989002018
+    "id": 8989002018,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2049,7 +2080,8 @@
     "favourite": false,
     "link": "https://boxd.it/3GOW",
     "refreshed": false,
-    "id": 575734598
+    "id": 575734598,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -2061,7 +2093,8 @@
     "favourite": false,
     "link": "https://boxd.it/1XLG",
     "refreshed": false,
-    "id": 5767037190
+    "id": 5767037190,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -2070,12 +2103,11 @@
     "filmDuration": 104,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/17HW",
     "refreshed": false,
     "id": 6887931407,
-    "progress": 100,
-    "hours": null
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2087,7 +2119,8 @@
     "favourite": false,
     "link": "https://boxd.it/1A2I",
     "refreshed": false,
-    "id": 5678176321
+    "id": 5678176321,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2099,7 +2132,8 @@
     "favourite": false,
     "link": "https://boxd.it/20Oy",
     "refreshed": false,
-    "id": 7566085895
+    "id": 7566085895,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2112,8 +2146,7 @@
     "link": "https://boxd.it/1GQk",
     "refreshed": false,
     "id": 4913934732,
-    "progress": 100,
-    "hours": 2.6
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2125,7 +2158,8 @@
     "favourite": false,
     "link": "https://boxd.it/1EmW",
     "refreshed": false,
-    "id": 9325368633
+    "id": 9325368633,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -2138,8 +2172,7 @@
     "link": "https://boxd.it/2ans",
     "refreshed": false,
     "id": 6880016632,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2151,7 +2184,8 @@
     "favourite": false,
     "link": "https://boxd.it/26iy",
     "refreshed": false,
-    "id": 1810007208
+    "id": 1810007208,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2163,19 +2197,21 @@
     "favourite": false,
     "link": "https://boxd.it/2Eao",
     "refreshed": false,
-    "id": 5350335810
+    "id": 5350335810,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "Transporter 2",
     "status": "completed",
     "filmDuration": 87,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1YWq",
     "refreshed": false,
-    "id": 7572262940
+    "id": 7572262940,
+    "hours": 2.9
   },
   {
     "category": "films",
@@ -2188,20 +2224,20 @@
     "link": "https://boxd.it/26Xw",
     "refreshed": false,
     "id": 6557576142,
-    "progress": 100,
-    "hours": 3.2
+    "hours": 1.9
   },
   {
     "category": "films",
     "title": "Saw V",
     "status": "completed",
     "filmDuration": 95,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1SMa",
     "refreshed": false,
-    "id": 3844107994
+    "id": 3844107994,
+    "hours": 3.2
   },
   {
     "category": "films",
@@ -2213,7 +2249,8 @@
     "favourite": false,
     "link": "https://boxd.it/1WQ6",
     "refreshed": false,
-    "id": 4435954374
+    "id": 4435954374,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2222,12 +2259,11 @@
     "filmDuration": 89,
     "rewatchedCounter": 5,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/28sU",
     "refreshed": false,
     "id": 3398586099,
-    "progress": 100,
-    "hours": null
+    "hours": 7.4
   },
   {
     "category": "films",
@@ -2239,7 +2275,8 @@
     "favourite": false,
     "link": "https://boxd.it/35AS",
     "refreshed": false,
-    "id": 5517284008
+    "id": 5517284008,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2248,12 +2285,11 @@
     "filmDuration": 101,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/21QA",
     "refreshed": false,
     "id": 7506093456,
-    "progress": 100,
-    "hours": null
+    "hours": 3.4
   },
   {
     "category": "films",
@@ -2266,8 +2302,7 @@
     "link": "https://boxd.it/2a9q",
     "refreshed": false,
     "id": 4774480712,
-    "progress": 100,
-    "hours": 2
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -2279,7 +2314,8 @@
     "favourite": false,
     "link": "https://boxd.it/1a7s",
     "refreshed": false,
-    "id": 2788085296
+    "id": 2788085296,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2291,7 +2327,8 @@
     "favourite": false,
     "link": "https://boxd.it/1a7i",
     "refreshed": false,
-    "id": 2342028525
+    "id": 2342028525,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -2303,7 +2340,8 @@
     "favourite": false,
     "link": "https://boxd.it/29Pq",
     "refreshed": false,
-    "id": 3996142708
+    "id": 3996142708,
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -2315,7 +2353,8 @@
     "favourite": false,
     "link": "https://boxd.it/2DjO",
     "refreshed": false,
-    "id": 2237818316
+    "id": 2237818316,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2328,8 +2367,7 @@
     "link": "https://boxd.it/28Vs",
     "refreshed": false,
     "id": 2610621509,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2342,8 +2380,7 @@
     "link": "https://boxd.it/IG",
     "refreshed": false,
     "id": 3971775902,
-    "progress": 100,
-    "hours": 2.5
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2355,7 +2392,8 @@
     "favourite": false,
     "link": "https://boxd.it/aAIM",
     "refreshed": false,
-    "id": 1897539123
+    "id": 1897539123,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2364,12 +2402,11 @@
     "filmDuration": 93,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/fdo",
     "refreshed": false,
     "id": 8877698222,
-    "progress": 100,
-    "hours": null
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2381,7 +2418,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YpQ",
     "refreshed": false,
-    "id": 1266688790
+    "id": 1266688790,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -2394,7 +2432,6 @@
     "link": "https://boxd.it/5cVs",
     "refreshed": false,
     "id": 7044881406,
-    "progress": 100,
     "hours": 2.3
   },
   {
@@ -2408,8 +2445,7 @@
     "link": "https://boxd.it/2F5O",
     "refreshed": false,
     "id": 5765890243,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2422,8 +2458,7 @@
     "link": "https://boxd.it/2aIU",
     "refreshed": false,
     "id": 8129948472,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -2436,8 +2471,7 @@
     "link": "https://boxd.it/1WYk",
     "refreshed": false,
     "id": 8161247579,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -2446,24 +2480,24 @@
     "filmDuration": 112,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1Iik",
     "refreshed": false,
     "id": 6150841283,
-    "progress": 100,
-    "hours": 4.2
+    "hours": 3.7
   },
   {
     "category": "films",
     "title": "X-Men: First Class",
     "status": "completed",
     "filmDuration": 132,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/FOA",
     "refreshed": false,
-    "id": 4067933158
+    "id": 4067933158,
+    "hours": 4.4
   },
   {
     "category": "films",
@@ -2472,12 +2506,11 @@
     "filmDuration": 96,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1MPs",
     "refreshed": false,
     "id": 1088908113,
-    "progress": 100,
-    "hours": 6.3
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -2489,19 +2522,21 @@
     "favourite": false,
     "link": "https://boxd.it/71Ks",
     "refreshed": false,
-    "id": 653204776
+    "id": 653204776,
+    "hours": 2
   },
   {
     "category": "films",
     "title": "Snatch",
     "status": "completed",
     "filmDuration": 103,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/2b7U",
     "refreshed": false,
-    "id": 4953438678
+    "id": 4953438678,
+    "hours": 3.4
   },
   {
     "category": "films",
@@ -2510,12 +2545,11 @@
     "filmDuration": 88,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/27MY",
     "refreshed": false,
     "id": 7231555797,
-    "progress": 100,
-    "hours": 3.9
+    "hours": 2.9
   },
   {
     "category": "films",
@@ -2524,12 +2558,11 @@
     "filmDuration": 92,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/24Nu",
     "refreshed": false,
     "id": 8019372955,
-    "progress": 100,
-    "hours": null
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -2538,12 +2571,11 @@
     "filmDuration": 93,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1rtg",
     "refreshed": false,
     "id": 5401444088,
-    "progress": 100,
-    "hours": null
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2556,8 +2588,7 @@
     "link": "https://boxd.it/1W9m",
     "refreshed": false,
     "id": 8062589251,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2569,7 +2600,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Xmc",
     "refreshed": false,
-    "id": 8204501336
+    "id": 8204501336,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2581,7 +2613,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YUa",
     "refreshed": false,
-    "id": 5631763429
+    "id": 5631763429,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2593,7 +2626,8 @@
     "favourite": false,
     "link": "https://boxd.it/433O",
     "refreshed": false,
-    "id": 1427875294
+    "id": 1427875294,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -2605,7 +2639,8 @@
     "favourite": false,
     "link": "https://boxd.it/1VVu",
     "refreshed": false,
-    "id": 8852667421
+    "id": 8852667421,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2614,24 +2649,24 @@
     "filmDuration": 110,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1ZBS",
     "refreshed": false,
     "id": 576395003,
-    "progress": 100,
-    "hours": null
+    "hours": 5.5
   },
   {
     "category": "films",
     "title": "Man of Steel",
     "status": "completed",
     "filmDuration": 143,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/FRk",
     "refreshed": false,
-    "id": 4139415810
+    "id": 4139415810,
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -2644,8 +2679,7 @@
     "link": "https://boxd.it/2atU",
     "refreshed": false,
     "id": 7977500919,
-    "progress": 100,
-    "hours": 2.8
+    "hours": 3.4
   },
   {
     "category": "films",
@@ -2657,7 +2691,8 @@
     "favourite": false,
     "link": "https://boxd.it/1rtK",
     "refreshed": false,
-    "id": 1414618176
+    "id": 1414618176,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2669,7 +2704,8 @@
     "favourite": false,
     "link": "https://boxd.it/H16",
     "refreshed": false,
-    "id": 1454925797
+    "id": 1454925797,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -2682,8 +2718,7 @@
     "link": "https://boxd.it/2Hj4",
     "refreshed": false,
     "id": 5101011393,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2695,7 +2730,8 @@
     "favourite": false,
     "link": "https://boxd.it/2qmK",
     "refreshed": false,
-    "id": 6871137225
+    "id": 6871137225,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2707,7 +2743,8 @@
     "favourite": false,
     "link": "https://boxd.it/2Ruw",
     "refreshed": false,
-    "id": 3280833808
+    "id": 3280833808,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2719,7 +2756,8 @@
     "favourite": false,
     "link": "https://boxd.it/1ZXa",
     "refreshed": false,
-    "id": 2542132906
+    "id": 2542132906,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -2731,7 +2769,8 @@
     "favourite": false,
     "link": "https://boxd.it/280c",
     "refreshed": false,
-    "id": 2397206074
+    "id": 2397206074,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -2743,7 +2782,8 @@
     "favourite": false,
     "link": "https://boxd.it/Ro",
     "refreshed": false,
-    "id": 1940935055
+    "id": 1940935055,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2755,21 +2795,21 @@
     "favourite": false,
     "link": "https://boxd.it/18Tu",
     "refreshed": false,
-    "id": 3544588800
+    "id": 3544588800,
+    "hours": 1.5
   },
   {
     "category": "films",
     "title": "District 13: Ultimatum",
     "status": "completed",
     "filmDuration": 101,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1MoG",
     "refreshed": false,
     "id": 3320287103,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 3.4
   },
   {
     "category": "films",
@@ -2782,8 +2822,7 @@
     "link": "https://boxd.it/1XdY",
     "refreshed": false,
     "id": 9005175731,
-    "progress": 100,
-    "hours": 7.3
+    "hours": 4.2
   },
   {
     "category": "films",
@@ -2795,7 +2834,8 @@
     "favourite": false,
     "link": "https://boxd.it/2bb8",
     "refreshed": false,
-    "id": 7266054949
+    "id": 7266054949,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2808,8 +2848,7 @@
     "link": "https://boxd.it/2ar0",
     "refreshed": false,
     "id": 3616069031,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -2821,19 +2860,21 @@
     "favourite": false,
     "link": "https://boxd.it/207Y",
     "refreshed": false,
-    "id": 5517840176
+    "id": 5517840176,
+    "hours": 2
   },
   {
     "category": "films",
     "title": "The Fast and the Furious: Tokyo Drift",
     "status": "completed",
     "filmDuration": 104,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1Yeo",
     "refreshed": false,
-    "id": 3028655191
+    "id": 3028655191,
+    "hours": 3.5
   },
   {
     "category": "films",
@@ -2845,7 +2886,8 @@
     "favourite": false,
     "link": "https://boxd.it/1WPW",
     "refreshed": false,
-    "id": 2734563452
+    "id": 2734563452,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2858,8 +2900,7 @@
     "link": "https://boxd.it/2a7E",
     "refreshed": false,
     "id": 9074435161,
-    "progress": 100,
-    "hours": 1.4
+    "hours": 2
   },
   {
     "category": "films",
@@ -2871,7 +2912,8 @@
     "favourite": false,
     "link": "https://boxd.it/2a0y",
     "refreshed": false,
-    "id": 2882218549
+    "id": 2882218549,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -2883,7 +2925,8 @@
     "favourite": false,
     "link": "https://boxd.it/29CG",
     "refreshed": false,
-    "id": 2209772881
+    "id": 2209772881,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2895,7 +2938,8 @@
     "favourite": false,
     "link": "https://boxd.it/1ZLI",
     "refreshed": false,
-    "id": 9364817136
+    "id": 9364817136,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -2907,7 +2951,8 @@
     "favourite": false,
     "link": "https://boxd.it/ham",
     "refreshed": false,
-    "id": 4305860111
+    "id": 4305860111,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2919,7 +2964,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aZ2",
     "refreshed": false,
-    "id": 341491200
+    "id": 341491200,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -2931,7 +2977,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aEy",
     "refreshed": false,
-    "id": 4663153086
+    "id": 4663153086,
+    "hours": 2
   },
   {
     "category": "films",
@@ -2943,19 +2990,21 @@
     "favourite": false,
     "link": "https://boxd.it/27Vc",
     "refreshed": false,
-    "id": 2477266672
+    "id": 2477266672,
+    "hours": 2.3
   },
   {
     "category": "films",
     "title": "Smokin' Aces 2: Assassins' Ball",
     "status": "completed",
     "filmDuration": 86,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1ncK",
     "refreshed": false,
-    "id": 7437203619
+    "id": 7437203619,
+    "hours": 2.9
   },
   {
     "category": "films",
@@ -2967,7 +3016,8 @@
     "favourite": false,
     "link": "https://boxd.it/20IA",
     "refreshed": false,
-    "id": 3642744605
+    "id": 3642744605,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -2979,7 +3029,8 @@
     "favourite": false,
     "link": "https://boxd.it/1XV2",
     "refreshed": false,
-    "id": 9542097555
+    "id": 9542097555,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -2991,7 +3042,8 @@
     "favourite": false,
     "link": "https://boxd.it/28LW",
     "refreshed": false,
-    "id": 6848543926
+    "id": 6848543926,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -3003,7 +3055,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YAu",
     "refreshed": false,
-    "id": 9109934683
+    "id": 9109934683,
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -3016,8 +3069,7 @@
     "link": "https://boxd.it/2b8e",
     "refreshed": false,
     "id": 6132519689,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3030,8 +3082,7 @@
     "link": "https://boxd.it/2aYI",
     "refreshed": false,
     "id": 3334633847,
-    "progress": 100,
-    "hours": 1.6
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3043,7 +3094,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Q0y",
     "refreshed": false,
-    "id": 8569575105
+    "id": 8569575105,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3055,7 +3107,8 @@
     "favourite": false,
     "link": "https://boxd.it/4VZ8",
     "refreshed": false,
-    "id": 8971409057
+    "id": 8971409057,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -3067,7 +3120,8 @@
     "favourite": false,
     "link": "https://boxd.it/GZY",
     "refreshed": false,
-    "id": 1192625247
+    "id": 1192625247,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3080,20 +3134,20 @@
     "link": "https://boxd.it/2awY",
     "refreshed": false,
     "id": 4213872054,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 1.9
   },
   {
     "category": "films",
     "title": "Prometheus",
     "status": "completed",
     "filmDuration": 124,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2s9e",
     "refreshed": false,
-    "id": 2937546966
+    "id": 2937546966,
+    "hours": 4.1
   },
   {
     "category": "films",
@@ -3106,8 +3160,7 @@
     "link": "https://boxd.it/g2w",
     "refreshed": false,
     "id": 5760094901,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3119,7 +3172,8 @@
     "favourite": false,
     "link": "https://boxd.it/1IGQ",
     "refreshed": false,
-    "id": 7554123911
+    "id": 7554123911,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3128,12 +3182,11 @@
     "filmDuration": 115,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/2a1G",
     "refreshed": false,
     "id": 5037629844,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3142,12 +3195,11 @@
     "filmDuration": 97,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/32NY",
     "refreshed": false,
     "id": 32410345,
-    "progress": 100,
-    "hours": 2.7
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3159,7 +3211,8 @@
     "favourite": false,
     "link": "https://boxd.it/29Js",
     "refreshed": false,
-    "id": 6323586517
+    "id": 6323586517,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3171,7 +3224,8 @@
     "favourite": false,
     "link": "https://boxd.it/2Bzq",
     "refreshed": false,
-    "id": 3562159182
+    "id": 3562159182,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -3183,7 +3237,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aWi",
     "refreshed": false,
-    "id": 4514659318
+    "id": 4514659318,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -3195,7 +3250,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YMA",
     "refreshed": false,
-    "id": 8148748309
+    "id": 8148748309,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3207,7 +3263,8 @@
     "favourite": false,
     "link": "https://boxd.it/20WM",
     "refreshed": false,
-    "id": 3907963145
+    "id": 3907963145,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3219,7 +3276,8 @@
     "favourite": false,
     "link": "https://boxd.it/2a1w",
     "refreshed": false,
-    "id": 8304663018
+    "id": 8304663018,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -3231,7 +3289,8 @@
     "favourite": false,
     "link": "https://boxd.it/2TFm",
     "refreshed": false,
-    "id": 2501503886
+    "id": 2501503886,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3243,7 +3302,8 @@
     "favourite": false,
     "link": "https://boxd.it/4lp4",
     "refreshed": false,
-    "id": 374318799
+    "id": 374318799,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -3255,7 +3315,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Dlo",
     "refreshed": false,
-    "id": 3354605984
+    "id": 3354605984,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -3267,7 +3328,8 @@
     "favourite": false,
     "link": "https://boxd.it/1yYg",
     "refreshed": false,
-    "id": 5859365821
+    "id": 5859365821,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3280,8 +3342,7 @@
     "link": "https://boxd.it/2b9Q",
     "refreshed": false,
     "id": 257096614,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -3293,7 +3354,8 @@
     "favourite": false,
     "link": "https://boxd.it/29rS",
     "refreshed": false,
-    "id": 1136146074
+    "id": 1136146074,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -3305,7 +3367,8 @@
     "favourite": false,
     "link": "https://boxd.it/27Po",
     "refreshed": false,
-    "id": 1943691830
+    "id": 1943691830,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -3317,7 +3380,8 @@
     "favourite": false,
     "link": "https://boxd.it/3oAs",
     "refreshed": false,
-    "id": 7048633238
+    "id": 7048633238,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -3329,7 +3393,8 @@
     "favourite": false,
     "link": "https://boxd.it/2958",
     "refreshed": false,
-    "id": 9495914035
+    "id": 9495914035,
+    "hours": 2
   },
   {
     "category": "films",
@@ -3341,7 +3406,8 @@
     "favourite": false,
     "link": "https://boxd.it/FQ2",
     "refreshed": false,
-    "id": 7536231875
+    "id": 7536231875,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -3353,7 +3419,8 @@
     "favourite": false,
     "link": "https://boxd.it/1yIM",
     "refreshed": false,
-    "id": 5418809385
+    "id": 5418809385,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -3365,7 +3432,8 @@
     "favourite": false,
     "link": "https://boxd.it/4i9s",
     "refreshed": false,
-    "id": 4364006885
+    "id": 4364006885,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -3377,7 +3445,8 @@
     "favourite": false,
     "link": "https://boxd.it/16aC",
     "refreshed": false,
-    "id": 3101345730
+    "id": 3101345730,
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -3389,7 +3458,8 @@
     "favourite": false,
     "link": "https://boxd.it/28wi",
     "refreshed": false,
-    "id": 2068283909
+    "id": 2068283909,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3401,7 +3471,8 @@
     "favourite": false,
     "link": "https://boxd.it/29ZA",
     "refreshed": false,
-    "id": 5218519719
+    "id": 5218519719,
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -3414,8 +3485,7 @@
     "link": "https://boxd.it/F2G",
     "refreshed": false,
     "id": 6112461905,
-    "progress": 100,
-    "hours": 2.2
+    "hours": 2
   },
   {
     "category": "films",
@@ -3428,8 +3498,7 @@
     "link": "https://boxd.it/1a8A",
     "refreshed": false,
     "id": 2651547852,
-    "progress": 100,
-    "hours": 1.5
+    "hours": 2
   },
   {
     "category": "films",
@@ -3442,8 +3511,7 @@
     "link": "https://boxd.it/1YVM",
     "refreshed": false,
     "id": 9479438393,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3455,7 +3523,8 @@
     "favourite": false,
     "link": "https://boxd.it/2abQ",
     "refreshed": false,
-    "id": 7931641498
+    "id": 7931641498,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3467,7 +3536,8 @@
     "favourite": false,
     "link": "https://boxd.it/1yXW",
     "refreshed": false,
-    "id": 2488421821
+    "id": 2488421821,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3480,8 +3550,7 @@
     "link": "https://boxd.it/29Ve",
     "refreshed": false,
     "id": 2082018543,
-    "progress": 100,
-    "hours": 3.2
+    "hours": 4.9
   },
   {
     "category": "films",
@@ -3493,7 +3562,8 @@
     "favourite": false,
     "link": "https://boxd.it/4hTY",
     "refreshed": false,
-    "id": 8206717531
+    "id": 8206717531,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -3506,56 +3576,59 @@
     "link": "https://boxd.it/2UG6",
     "refreshed": false,
     "id": 2986493792,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.2
   },
   {
     "category": "films",
     "title": "Saw",
     "status": "completed",
     "filmDuration": 103,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2aWW",
     "refreshed": false,
-    "id": 2188323447
+    "id": 2188323447,
+    "hours": 3.4
   },
   {
     "category": "films",
     "title": "Saw II",
     "status": "completed",
     "filmDuration": 89,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2aRs",
     "refreshed": false,
-    "id": 7907184232
+    "id": 7907184232,
+    "hours": 3
   },
   {
     "category": "films",
     "title": "Saw III",
     "status": "completed",
     "filmDuration": 114,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/2aRC",
     "refreshed": false,
-    "id": 3713361861
+    "id": 3713361861,
+    "hours": 3.8
   },
   {
     "category": "films",
     "title": "Saw IV",
     "status": "completed",
     "filmDuration": 96,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 2,
     "favourite": false,
     "link": "https://boxd.it/29Sa",
     "refreshed": false,
-    "id": 2083013795
+    "id": 2083013795,
+    "hours": 3.2
   },
   {
     "category": "films",
@@ -3567,7 +3640,8 @@
     "favourite": false,
     "link": "https://boxd.it/1A2y",
     "refreshed": false,
-    "id": 8257497669
+    "id": 8257497669,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3579,7 +3653,8 @@
     "favourite": false,
     "link": "https://boxd.it/Znk",
     "refreshed": false,
-    "id": 3490137171
+    "id": 3490137171,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3591,7 +3666,8 @@
     "favourite": false,
     "link": "https://boxd.it/1EiU",
     "refreshed": false,
-    "id": 6842183632
+    "id": 6842183632,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3604,8 +3680,7 @@
     "link": "https://boxd.it/1tXs",
     "refreshed": false,
     "id": 3961412081,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3617,7 +3692,8 @@
     "favourite": false,
     "link": "https://boxd.it/16T8",
     "refreshed": false,
-    "id": 8033144299
+    "id": 8033144299,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -3626,12 +3702,11 @@
     "filmDuration": 109,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/20Ri",
     "refreshed": false,
     "id": 3551539105,
-    "progress": 100,
-    "hours": null
+    "hours": 5.5
   },
   {
     "category": "films",
@@ -3643,7 +3718,8 @@
     "favourite": false,
     "link": "https://boxd.it/4p90",
     "refreshed": false,
-    "id": 5595870638
+    "id": 5595870638,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -3656,8 +3732,7 @@
     "link": "https://boxd.it/5RFA",
     "refreshed": false,
     "id": 4536524097,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2
   },
   {
     "category": "films",
@@ -3669,7 +3744,8 @@
     "favourite": false,
     "link": "https://boxd.it/29dQ",
     "refreshed": false,
-    "id": 8279727753
+    "id": 8279727753,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3681,7 +3757,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YII",
     "refreshed": false,
-    "id": 3837863396
+    "id": 3837863396,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3694,8 +3771,7 @@
     "link": "https://boxd.it/27Lw",
     "refreshed": false,
     "id": 7140043888,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3707,7 +3783,8 @@
     "favourite": false,
     "link": "https://boxd.it/20ss",
     "refreshed": false,
-    "id": 5956565328
+    "id": 5956565328,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3719,7 +3796,8 @@
     "favourite": false,
     "link": "https://boxd.it/5phg",
     "refreshed": false,
-    "id": 5305022312
+    "id": 5305022312,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3732,20 +3810,20 @@
     "link": "https://boxd.it/1YSy",
     "refreshed": false,
     "id": 9622677579,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.5
   },
   {
     "category": "films",
     "title": "The Fountain",
     "status": "completed",
-    "filmDuration": null,
+    "filmDuration": 96,
     "rewatchedCounter": 1,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/28RU",
     "refreshed": false,
-    "id": 5201910548
+    "id": 5201910548,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3757,19 +3835,21 @@
     "favourite": false,
     "link": "https://boxd.it/FRu",
     "refreshed": false,
-    "id": 8415555399
+    "id": 8415555399,
+    "hours": 1.9
   },
   {
     "category": "films",
     "title": "X-Men: Apocalypse",
     "status": "completed",
     "filmDuration": 144,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/7eJi",
     "refreshed": false,
-    "id": 7747517191
+    "id": 7747517191,
+    "hours": 4.8
   },
   {
     "category": "films",
@@ -3782,8 +3862,7 @@
     "link": "https://boxd.it/2awa",
     "refreshed": false,
     "id": 6627566500,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -3795,31 +3874,34 @@
     "favourite": false,
     "link": "https://boxd.it/7DUU",
     "refreshed": false,
-    "id": 4801270181
+    "id": 4801270181,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "Now You See Me",
     "status": "completed",
     "filmDuration": 116,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/2Bsu",
     "refreshed": false,
-    "id": 5482117189
+    "id": 5482117189,
+    "hours": 3.9
   },
   {
     "category": "films",
     "title": "Now You See Me 2",
     "status": "completed",
     "filmDuration": 129,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/99fw",
     "refreshed": false,
-    "id": 1099251248
+    "id": 1099251248,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -3831,7 +3913,8 @@
     "favourite": false,
     "link": "https://boxd.it/94Hg",
     "refreshed": false,
-    "id": 4785541042
+    "id": 4785541042,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3840,12 +3923,11 @@
     "filmDuration": 126,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/4O24",
     "refreshed": false,
     "id": 331729979,
-    "progress": 100,
-    "hours": null
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -3857,7 +3939,8 @@
     "favourite": false,
     "link": "https://boxd.it/3r40",
     "refreshed": false,
-    "id": 4408111719
+    "id": 4408111719,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3870,8 +3953,7 @@
     "link": "https://boxd.it/1Pme",
     "refreshed": false,
     "id": 6656262590,
-    "progress": 100,
-    "hours": 2.5
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -3883,7 +3965,8 @@
     "favourite": false,
     "link": "https://boxd.it/14MO",
     "refreshed": false,
-    "id": 9221410404
+    "id": 9221410404,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3895,7 +3978,8 @@
     "favourite": false,
     "link": "https://boxd.it/dbTQ",
     "refreshed": false,
-    "id": 486780673
+    "id": 486780673,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -3907,7 +3991,8 @@
     "favourite": false,
     "link": "https://boxd.it/i3G",
     "refreshed": false,
-    "id": 60528389
+    "id": 60528389,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -3919,7 +4004,8 @@
     "favourite": false,
     "link": "https://boxd.it/6aig",
     "refreshed": false,
-    "id": 73347022
+    "id": 73347022,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -3931,7 +4017,8 @@
     "favourite": false,
     "link": "https://boxd.it/23Ku",
     "refreshed": false,
-    "id": 9613592662
+    "id": 9613592662,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3944,8 +4031,7 @@
     "link": "https://boxd.it/1tXC",
     "refreshed": false,
     "id": 2911645870,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3957,7 +4043,8 @@
     "favourite": false,
     "link": "https://boxd.it/FQQ",
     "refreshed": false,
-    "id": 7403621255
+    "id": 7403621255,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3969,7 +4056,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YSe",
     "refreshed": false,
-    "id": 3392060032
+    "id": 3392060032,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -3981,7 +4069,8 @@
     "favourite": false,
     "link": "https://boxd.it/26mK",
     "refreshed": false,
-    "id": 2392798207
+    "id": 2392798207,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -3993,7 +4082,8 @@
     "favourite": false,
     "link": "https://boxd.it/bDG2",
     "refreshed": false,
-    "id": 6672091183
+    "id": 6672091183,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4005,7 +4095,8 @@
     "favourite": false,
     "link": "https://boxd.it/28Uk",
     "refreshed": false,
-    "id": 9270718679
+    "id": 9270718679,
+    "hours": 2
   },
   {
     "category": "films",
@@ -4017,7 +4108,8 @@
     "favourite": false,
     "link": "https://boxd.it/147m",
     "refreshed": false,
-    "id": 5794430270
+    "id": 5794430270,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -4029,7 +4121,8 @@
     "favourite": false,
     "link": "https://boxd.it/1QoU",
     "refreshed": false,
-    "id": 3331392630
+    "id": 3331392630,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4041,7 +4134,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aVk",
     "refreshed": false,
-    "id": 2418545007
+    "id": 2418545007,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -4050,24 +4144,24 @@
     "filmDuration": 142,
     "rewatchedCounter": 1,
     "rating": 5,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/2aHi",
     "refreshed": false,
     "id": 3309727417,
-    "progress": 100,
-    "hours": 2.5
+    "hours": 2.4
   },
   {
     "category": "films",
     "title": "The Mummy Returns",
     "status": "completed",
     "filmDuration": 130,
-    "rewatchedCounter": 1,
-    "rating": 3,
+    "rewatchedCounter": 2,
+    "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/28cs",
     "refreshed": false,
-    "id": 1531254135
+    "id": 1531254135,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -4080,8 +4174,7 @@
     "link": "https://boxd.it/5Y3e",
     "refreshed": false,
     "id": 1101582327,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2
   },
   {
     "category": "films",
@@ -4094,8 +4187,7 @@
     "link": "https://boxd.it/24dw",
     "refreshed": false,
     "id": 6489755153,
-    "progress": 100,
-    "hours": 3.2
+    "hours": 3.8
   },
   {
     "category": "films",
@@ -4107,7 +4199,8 @@
     "favourite": false,
     "link": "https://boxd.it/oAQ",
     "refreshed": false,
-    "id": 8884309184
+    "id": 8884309184,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4120,8 +4213,7 @@
     "link": "https://boxd.it/29HQ",
     "refreshed": false,
     "id": 4311925227,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4133,7 +4225,8 @@
     "favourite": false,
     "link": "https://boxd.it/27Jq",
     "refreshed": false,
-    "id": 1311995419
+    "id": 1311995419,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4145,7 +4238,8 @@
     "favourite": false,
     "link": "https://boxd.it/27IW",
     "refreshed": false,
-    "id": 6932691339
+    "id": 6932691339,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -4157,7 +4251,8 @@
     "favourite": false,
     "link": "https://boxd.it/27IC",
     "refreshed": false,
-    "id": 7366919462
+    "id": 7366919462,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4169,7 +4264,8 @@
     "favourite": false,
     "link": "https://boxd.it/Mce",
     "refreshed": false,
-    "id": 7987851804
+    "id": 7987851804,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4181,7 +4277,8 @@
     "favourite": false,
     "link": "https://boxd.it/8wj0",
     "refreshed": false,
-    "id": 6897606686
+    "id": 6897606686,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4193,21 +4290,21 @@
     "favourite": false,
     "link": "https://boxd.it/8lBW",
     "refreshed": false,
-    "id": 6032683450
+    "id": 6032683450,
+    "hours": 1.8
   },
   {
     "category": "films",
     "title": "Shooter",
     "status": "completed",
     "filmDuration": 124,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/20TS",
     "refreshed": false,
     "id": 5168374018,
-    "progress": 100,
-    "hours": null
+    "hours": 6.2
   },
   {
     "category": "films",
@@ -4220,8 +4317,7 @@
     "link": "https://boxd.it/1Y9y",
     "refreshed": false,
     "id": 3291184430,
-    "progress": 100,
-    "hours": 2.8
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4233,19 +4329,21 @@
     "favourite": false,
     "link": "https://boxd.it/1QDA",
     "refreshed": false,
-    "id": 2436327876
+    "id": 2436327876,
+    "hours": 1.6
   },
   {
     "category": "films",
     "title": "Predators",
     "status": "completed",
     "filmDuration": 107,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1d9m",
     "refreshed": false,
-    "id": 5049874689
+    "id": 5049874689,
+    "hours": 3.6
   },
   {
     "category": "films",
@@ -4257,7 +4355,8 @@
     "favourite": false,
     "link": "https://boxd.it/CJi",
     "refreshed": false,
-    "id": 2748054260
+    "id": 2748054260,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -4266,24 +4365,24 @@
     "filmDuration": 127,
     "rewatchedCounter": 2,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/3Icg",
     "refreshed": false,
     "id": 7744967965,
-    "progress": 100,
-    "hours": null
+    "hours": 4.2
   },
   {
     "category": "films",
     "title": "Suicide Squad",
     "status": "completed",
     "filmDuration": 123,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/9row",
     "refreshed": false,
-    "id": 4588119938
+    "id": 4588119938,
+    "hours": 4.1
   },
   {
     "category": "films",
@@ -4291,13 +4390,12 @@
     "status": "completed",
     "filmDuration": 107,
     "rewatchedCounter": 1,
-    "rating": 3,
+    "rating": 4,
     "favourite": true,
     "link": "https://boxd.it/9RW",
     "refreshed": false,
     "id": 8347750643,
-    "progress": 100,
-    "hours": null
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4309,7 +4407,8 @@
     "favourite": false,
     "link": "https://boxd.it/2bbs",
     "refreshed": false,
-    "id": 4474500545
+    "id": 4474500545,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4321,7 +4420,8 @@
     "favourite": false,
     "link": "https://boxd.it/2baO",
     "refreshed": false,
-    "id": 4389876366
+    "id": 4389876366,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -4333,7 +4433,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aR8",
     "refreshed": false,
-    "id": 7607901528
+    "id": 7607901528,
+    "hours": 2
   },
   {
     "category": "films",
@@ -4345,7 +4446,8 @@
     "favourite": false,
     "link": "https://boxd.it/9CWO",
     "refreshed": false,
-    "id": 8639224708
+    "id": 8639224708,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -4357,7 +4459,8 @@
     "favourite": false,
     "link": "https://boxd.it/YvW",
     "refreshed": false,
-    "id": 2668068521
+    "id": 2668068521,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4370,8 +4473,7 @@
     "link": "https://boxd.it/27pK",
     "refreshed": false,
     "id": 7760153545,
-    "progress": 100,
-    "hours": null
+    "hours": 3.1
   },
   {
     "category": "films",
@@ -4383,7 +4485,8 @@
     "favourite": false,
     "link": "https://boxd.it/2a3i",
     "refreshed": false,
-    "id": 9118103572
+    "id": 9118103572,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -4395,7 +4498,8 @@
     "favourite": false,
     "link": "https://boxd.it/29d2",
     "refreshed": false,
-    "id": 507684230
+    "id": 507684230,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4407,7 +4511,8 @@
     "favourite": false,
     "link": "https://boxd.it/29fW",
     "refreshed": false,
-    "id": 7651895707
+    "id": 7651895707,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -4416,12 +4521,11 @@
     "filmDuration": 105,
     "rewatchedCounter": 3,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1QGY",
     "refreshed": false,
     "id": 8628040939,
-    "progress": 100,
-    "hours": 7.8
+    "hours": 5.3
   },
   {
     "category": "films",
@@ -4433,7 +4537,8 @@
     "favourite": false,
     "link": "https://boxd.it/1VHs",
     "refreshed": false,
-    "id": 5464573575
+    "id": 5464573575,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4445,7 +4550,8 @@
     "favourite": false,
     "link": "https://boxd.it/4rmK",
     "refreshed": false,
-    "id": 8564614348
+    "id": 8564614348,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -4458,8 +4564,7 @@
     "link": "https://boxd.it/1WPs",
     "refreshed": false,
     "id": 2857372790,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2
   },
   {
     "category": "films",
@@ -4471,7 +4576,8 @@
     "favourite": false,
     "link": "https://boxd.it/20Pc",
     "refreshed": false,
-    "id": 2848020899
+    "id": 2848020899,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4484,20 +4590,20 @@
     "link": "https://boxd.it/1YU0",
     "refreshed": false,
     "id": 2207536948,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.9
   },
   {
     "category": "films",
     "title": "Taxi 3",
     "status": "completed",
     "filmDuration": 82,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/26U8",
     "refreshed": false,
-    "id": 977850942
+    "id": 977850942,
+    "hours": 2.7
   },
   {
     "category": "films",
@@ -4510,8 +4616,7 @@
     "link": "https://boxd.it/26UM",
     "refreshed": false,
     "id": 3389810711,
-    "progress": 100,
-    "hours": null
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -4524,8 +4629,7 @@
     "link": "https://boxd.it/26Us",
     "refreshed": false,
     "id": 1389228015,
-    "progress": 100,
-    "hours": null
+    "hours": 4.1
   },
   {
     "category": "films",
@@ -4537,7 +4641,8 @@
     "favourite": false,
     "link": "https://boxd.it/1UZU",
     "refreshed": false,
-    "id": 7324864649
+    "id": 7324864649,
+    "hours": 2
   },
   {
     "category": "films",
@@ -4550,8 +4655,7 @@
     "link": "https://boxd.it/1YMK",
     "refreshed": false,
     "id": 2968197836,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -4564,8 +4668,7 @@
     "link": "https://boxd.it/7FPC",
     "refreshed": false,
     "id": 9755880135,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -4574,11 +4677,10 @@
     "filmDuration": 116,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/aNGk",
     "refreshed": false,
     "id": 1015552914,
-    "progress": 100,
     "hours": 1.9
   },
   {
@@ -4592,8 +4694,7 @@
     "link": "https://boxd.it/2a1Q",
     "refreshed": false,
     "id": 5754708430,
-    "progress": 100,
-    "hours": 3.5
+    "hours": 3.9
   },
   {
     "category": "films",
@@ -4605,7 +4706,8 @@
     "favourite": false,
     "link": "https://boxd.it/2pgc",
     "refreshed": false,
-    "id": 1949798210
+    "id": 1949798210,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4618,8 +4720,7 @@
     "link": "https://boxd.it/DoK",
     "refreshed": false,
     "id": 9321658990,
-    "progress": 100,
-    "hours": 1.4
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4631,7 +4732,8 @@
     "favourite": false,
     "link": "https://boxd.it/1QXq",
     "refreshed": false,
-    "id": 8171944697
+    "id": 8171944697,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -4644,8 +4746,7 @@
     "link": "https://boxd.it/1GfI",
     "refreshed": false,
     "id": 6725938106,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4658,8 +4759,7 @@
     "link": "https://boxd.it/Sw0",
     "refreshed": false,
     "id": 296314557,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4672,8 +4772,7 @@
     "link": "https://boxd.it/8MH8",
     "refreshed": false,
     "id": 4545399957,
-    "progress": 100,
-    "hours": 1.7
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4682,10 +4781,11 @@
     "filmDuration": 87,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/2aZQ",
     "refreshed": false,
-    "id": 5054075638
+    "id": 5054075638,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -4697,7 +4797,8 @@
     "favourite": false,
     "link": "https://boxd.it/hba",
     "refreshed": false,
-    "id": 8156155605
+    "id": 8156155605,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4709,7 +4810,8 @@
     "favourite": false,
     "link": "https://boxd.it/bCIw",
     "refreshed": false,
-    "id": 9503931685
+    "id": 9503931685,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -4722,7 +4824,6 @@
     "link": "https://boxd.it/41IK",
     "refreshed": false,
     "id": 3511948425,
-    "progress": 100,
     "hours": 1.9
   },
   {
@@ -4732,12 +4833,11 @@
     "filmDuration": 116,
     "rewatchedCounter": 1,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/8lFu",
     "refreshed": false,
     "id": 1615059653,
-    "progress": 100,
-    "hours": null
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4749,7 +4849,8 @@
     "favourite": false,
     "link": "https://boxd.it/aPvy",
     "refreshed": false,
-    "id": 2508792062
+    "id": 2508792062,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -4761,7 +4862,8 @@
     "favourite": false,
     "link": "https://boxd.it/dgSy",
     "refreshed": false,
-    "id": 9041142036
+    "id": 9041142036,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4773,7 +4875,8 @@
     "favourite": false,
     "link": "https://boxd.it/1MSc",
     "refreshed": false,
-    "id": 7435635447
+    "id": 7435635447,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4782,12 +4885,11 @@
     "filmDuration": 93,
     "rewatchedCounter": 5,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/1Mz0",
     "refreshed": false,
     "id": 3243579316,
-    "progress": 100,
-    "hours": null
+    "hours": 7.8
   },
   {
     "category": "films",
@@ -4796,12 +4898,11 @@
     "filmDuration": 96,
     "rewatchedCounter": 5,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/16sG",
     "refreshed": false,
     "id": 3555081005,
-    "progress": 100,
-    "hours": null
+    "hours": 8
   },
   {
     "category": "films",
@@ -4814,8 +4915,7 @@
     "link": "https://boxd.it/2qn4",
     "refreshed": false,
     "id": 174078151,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -4827,7 +4927,8 @@
     "favourite": false,
     "link": "https://boxd.it/1yoW",
     "refreshed": false,
-    "id": 9409680015
+    "id": 9409680015,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4839,7 +4940,8 @@
     "favourite": false,
     "link": "https://boxd.it/2CPE",
     "refreshed": false,
-    "id": 6619810791
+    "id": 6619810791,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -4852,8 +4954,7 @@
     "link": "https://boxd.it/bIby",
     "refreshed": false,
     "id": 699231443,
-    "progress": 100,
-    "hours": 3
+    "hours": 2.9
   },
   {
     "category": "films",
@@ -4865,7 +4966,8 @@
     "favourite": false,
     "link": "https://boxd.it/5lqS",
     "refreshed": false,
-    "id": 7406960295
+    "id": 7406960295,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -4877,7 +4979,8 @@
     "favourite": false,
     "link": "https://boxd.it/15HA",
     "refreshed": false,
-    "id": 301284965
+    "id": 301284965,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -4889,19 +4992,21 @@
     "favourite": false,
     "link": "https://boxd.it/a04c",
     "refreshed": false,
-    "id": 9550632462
+    "id": 9550632462,
+    "hours": 1.7
   },
   {
     "category": "films",
     "title": "Kingsman: The Secret Service",
     "status": "completed",
     "filmDuration": 129,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/6dxe",
     "refreshed": false,
-    "id": 1956555431
+    "id": 1956555431,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -4910,12 +5015,11 @@
     "filmDuration": 137,
     "rewatchedCounter": 3,
     "rating": 4,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/7Piy",
     "refreshed": false,
     "id": 1840694023,
-    "progress": 100,
-    "hours": null
+    "hours": 6.8
   },
   {
     "category": "films",
@@ -4927,7 +5031,8 @@
     "favourite": false,
     "link": "https://boxd.it/ayGu",
     "refreshed": false,
-    "id": 9498118182
+    "id": 9498118182,
+    "hours": 2
   },
   {
     "category": "films",
@@ -4939,7 +5044,8 @@
     "favourite": false,
     "link": "https://boxd.it/fF98",
     "refreshed": false,
-    "id": 1598803350
+    "id": 1598803350,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -4952,8 +5058,7 @@
     "link": "https://boxd.it/272G",
     "refreshed": false,
     "id": 5544200644,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -4965,7 +5070,8 @@
     "favourite": false,
     "link": "https://boxd.it/25SK",
     "refreshed": false,
-    "id": 5500172619
+    "id": 5500172619,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -4978,8 +5084,7 @@
     "link": "https://boxd.it/2oG4",
     "refreshed": false,
     "id": 3715542979,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -4991,7 +5096,8 @@
     "favourite": false,
     "link": "https://boxd.it/bbCw",
     "refreshed": false,
-    "id": 7208761979
+    "id": 7208761979,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5003,7 +5109,8 @@
     "favourite": false,
     "link": "https://boxd.it/67lG",
     "refreshed": false,
-    "id": 7202613827
+    "id": 7202613827,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5016,8 +5123,7 @@
     "link": "https://boxd.it/28yy",
     "refreshed": false,
     "id": 7092452938,
-    "progress": 100,
-    "hours": 2.5
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5029,7 +5135,8 @@
     "favourite": false,
     "link": "https://boxd.it/248c",
     "refreshed": false,
-    "id": 4935341501
+    "id": 4935341501,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -5041,7 +5148,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aHW",
     "refreshed": false,
-    "id": 4058388932
+    "id": 4058388932,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5053,7 +5161,8 @@
     "favourite": false,
     "link": "https://boxd.it/6hQu",
     "refreshed": false,
-    "id": 3983642475
+    "id": 3983642475,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -5065,7 +5174,8 @@
     "favourite": false,
     "link": "https://boxd.it/2aA2",
     "refreshed": false,
-    "id": 7930945222
+    "id": 7930945222,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -5077,7 +5187,8 @@
     "favourite": false,
     "link": "https://boxd.it/28zQ",
     "refreshed": false,
-    "id": 3344562002
+    "id": 3344562002,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -5089,7 +5200,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Aq6",
     "refreshed": false,
-    "id": 6404489482
+    "id": 6404489482,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5101,7 +5213,8 @@
     "favourite": false,
     "link": "https://boxd.it/1Q6c",
     "refreshed": false,
-    "id": 8446458250
+    "id": 8446458250,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -5114,8 +5227,8 @@
     "link": "https://boxd.it/J0",
     "refreshed": false,
     "id": 1929901951,
-    "progress": 100,
-    "hours": 2.6
+    "hours": 1.8,
+    "progress": 100
   },
   {
     "category": "films",
@@ -5127,7 +5240,8 @@
     "favourite": false,
     "link": "https://boxd.it/3wEC",
     "refreshed": false,
-    "id": 1131007358
+    "id": 1131007358,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5139,7 +5253,8 @@
     "favourite": false,
     "link": "https://boxd.it/29qK",
     "refreshed": false,
-    "id": 6564333128
+    "id": 6564333128,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5151,7 +5266,8 @@
     "favourite": false,
     "link": "https://boxd.it/9roG",
     "refreshed": false,
-    "id": 5852669520
+    "id": 5852669520,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -5164,8 +5280,7 @@
     "link": "https://boxd.it/49UY",
     "refreshed": false,
     "id": 3310829000,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2
   },
   {
     "category": "films",
@@ -5177,7 +5292,8 @@
     "favourite": false,
     "link": "https://boxd.it/205y",
     "refreshed": false,
-    "id": 3616583215
+    "id": 3616583215,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5189,11 +5305,12 @@
     "favourite": false,
     "link": "https://boxd.it/gmw",
     "refreshed": false,
-    "id": 7291047048
+    "id": 7291047048,
+    "hours": 1.5
   },
   {
     "category": "films",
-    "title": "The Mummy",
+    "title": "The Mummy (2017)",
     "status": "completed",
     "filmDuration": 110,
     "rewatchedCounter": 1,
@@ -5201,7 +5318,8 @@
     "favourite": false,
     "link": "https://boxd.it/8HnW",
     "refreshed": false,
-    "id": 332866654
+    "id": 332866654,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5213,7 +5331,8 @@
     "favourite": false,
     "link": "https://boxd.it/28ci",
     "refreshed": false,
-    "id": 5728709135
+    "id": 5728709135,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5225,7 +5344,8 @@
     "favourite": false,
     "link": "https://boxd.it/72s",
     "refreshed": false,
-    "id": 5379979631
+    "id": 5379979631,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5237,7 +5357,8 @@
     "favourite": false,
     "link": "https://boxd.it/27Vw",
     "refreshed": false,
-    "id": 5591289605
+    "id": 5591289605,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -5249,7 +5370,8 @@
     "favourite": false,
     "link": "https://boxd.it/27V2",
     "refreshed": false,
-    "id": 3720574830
+    "id": 3720574830,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -5261,7 +5383,8 @@
     "favourite": false,
     "link": "https://boxd.it/27US",
     "refreshed": false,
-    "id": 9134896545
+    "id": 9134896545,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5273,79 +5396,86 @@
     "favourite": false,
     "link": "https://boxd.it/27Vm",
     "refreshed": false,
-    "id": 3343025257
+    "id": 3343025257,
+    "hours": 2.3
   },
   {
     "category": "films",
     "title": "Harry Potter and the Order of the Phoenix",
     "status": "completed",
     "filmDuration": 138,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29Qe",
     "refreshed": false,
-    "id": 7397383099
+    "id": 7397383099,
+    "hours": 4.6
   },
   {
     "category": "films",
     "title": "Harry Potter and the Goblet of Fire",
     "status": "completed",
     "filmDuration": 157,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29Qo",
     "refreshed": false,
-    "id": 33473791
+    "id": 33473791,
+    "hours": 5.2
   },
   {
     "category": "films",
     "title": "Harry Potter and the Deathly Hallows: Part 1",
     "status": "completed",
     "filmDuration": 146,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1RYu",
     "refreshed": false,
-    "id": 6466063971
+    "id": 6466063971,
+    "hours": 4.9
   },
   {
     "category": "films",
     "title": "Harry Potter and the Chamber of Secrets",
     "status": "completed",
     "filmDuration": 161,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29QI",
     "refreshed": false,
-    "id": 6445667720
+    "id": 6445667720,
+    "hours": 5.4
   },
   {
     "category": "films",
     "title": "Harry Potter and the Philosopher's Stone",
     "status": "completed",
     "filmDuration": 152,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29QS",
     "refreshed": false,
-    "id": 820844359
+    "id": 820844359,
+    "hours": 5.1
   },
   {
     "category": "films",
     "title": "Harry Potter and the Half-Blood Prince",
     "status": "completed",
     "filmDuration": 153,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/29FU",
     "refreshed": false,
-    "id": 7609547755
+    "id": 7609547755,
+    "hours": 5.1
   },
   {
     "category": "films",
@@ -5357,7 +5487,8 @@
     "favourite": false,
     "link": "https://boxd.it/7eoa",
     "refreshed": false,
-    "id": 3379924115
+    "id": 3379924115,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -5369,7 +5500,8 @@
     "favourite": false,
     "link": "https://boxd.it/bihA",
     "refreshed": false,
-    "id": 7066816242
+    "id": 7066816242,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5382,8 +5514,7 @@
     "link": "https://boxd.it/2ara",
     "refreshed": false,
     "id": 3456411319,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2
   },
   {
     "category": "films",
@@ -5395,19 +5526,21 @@
     "favourite": false,
     "link": "https://boxd.it/8MxC",
     "refreshed": false,
-    "id": 2332164741
+    "id": 2332164741,
+    "hours": 2.3
   },
   {
     "category": "films",
     "title": "Superhero Movie",
     "status": "completed",
     "filmDuration": 85,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/1SM0",
     "refreshed": false,
-    "id": 1529153765
+    "id": 1529153765,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -5419,7 +5552,8 @@
     "favourite": false,
     "link": "https://boxd.it/285G",
     "refreshed": false,
-    "id": 2291238682
+    "id": 2291238682,
+    "hours": 1.4
   },
   {
     "category": "films",
@@ -5431,7 +5565,8 @@
     "favourite": false,
     "link": "https://boxd.it/b8xo",
     "refreshed": false,
-    "id": 7109524437
+    "id": 7109524437,
+    "hours": 2.6
   },
   {
     "category": "films",
@@ -5443,7 +5578,8 @@
     "favourite": false,
     "link": "https://boxd.it/3d1m",
     "refreshed": false,
-    "id": 8626094018
+    "id": 8626094018,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -5455,7 +5591,8 @@
     "favourite": false,
     "link": "https://boxd.it/20gG",
     "refreshed": false,
-    "id": 2271658350
+    "id": 2271658350,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -5468,8 +5605,7 @@
     "link": "https://boxd.it/71k",
     "refreshed": false,
     "id": 7448519597,
-    "progress": 100,
-    "hours": null
+    "hours": 4.2
   },
   {
     "category": "films",
@@ -5482,8 +5618,7 @@
     "link": "https://boxd.it/2aTS",
     "refreshed": false,
     "id": 2967543255,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2
   },
   {
     "category": "films",
@@ -5496,8 +5631,7 @@
     "link": "https://boxd.it/AXM",
     "refreshed": false,
     "id": 845312518,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -5510,8 +5644,7 @@
     "link": "https://boxd.it/4V42",
     "refreshed": false,
     "id": 7122503760,
-    "progress": 100,
-    "hours": 2
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5523,7 +5656,8 @@
     "favourite": false,
     "link": "https://boxd.it/aboM",
     "refreshed": false,
-    "id": 1956018293
+    "id": 1956018293,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -5535,7 +5669,8 @@
     "favourite": false,
     "link": "https://boxd.it/1XJg",
     "refreshed": false,
-    "id": 1259074011
+    "id": 1259074011,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -5548,8 +5683,7 @@
     "link": "https://boxd.it/5LDy",
     "refreshed": false,
     "id": 3652263639,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -5561,7 +5695,8 @@
     "favourite": false,
     "link": "https://boxd.it/1PmI",
     "refreshed": false,
-    "id": 1510251580
+    "id": 1510251580,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -5573,7 +5708,8 @@
     "favourite": false,
     "link": "https://boxd.it/dCmO",
     "refreshed": false,
-    "id": 6246383597
+    "id": 6246383597,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5585,7 +5721,8 @@
     "favourite": false,
     "link": "https://boxd.it/8FE2",
     "refreshed": false,
-    "id": 2129578889
+    "id": 2129578889,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5598,20 +5735,20 @@
     "link": "https://boxd.it/1AXE",
     "refreshed": false,
     "id": 7889973334,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.6
   },
   {
     "category": "films",
     "title": "Kingsman: The Golden Circle",
     "status": "completed",
     "filmDuration": 141,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/buJm",
     "refreshed": false,
-    "id": 4785245015
+    "id": 4785245015,
+    "hours": 4.7
   },
   {
     "category": "films",
@@ -5623,7 +5760,8 @@
     "favourite": false,
     "link": "https://boxd.it/bC8e",
     "refreshed": false,
-    "id": 7352803877
+    "id": 7352803877,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5636,8 +5774,7 @@
     "link": "https://boxd.it/b8wK",
     "refreshed": false,
     "id": 8258471382,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 2.7
   },
   {
     "category": "films",
@@ -5649,7 +5786,8 @@
     "favourite": false,
     "link": "https://boxd.it/dZrs",
     "refreshed": false,
-    "id": 6830296035
+    "id": 6830296035,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5661,7 +5799,8 @@
     "favourite": false,
     "link": "https://boxd.it/8MHi",
     "refreshed": false,
-    "id": 5973425815
+    "id": 5973425815,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -5673,7 +5812,8 @@
     "favourite": false,
     "link": "https://boxd.it/1YWA",
     "refreshed": false,
-    "id": 9150127164
+    "id": 9150127164,
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -5685,19 +5825,21 @@
     "favourite": false,
     "link": "https://boxd.it/27qS",
     "refreshed": false,
-    "id": 8322371826
+    "id": 8322371826,
+    "hours": 1.6
   },
   {
     "category": "films",
     "title": "Justice League",
     "status": "completed",
     "filmDuration": 120,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/4w68",
     "refreshed": false,
-    "id": 2594375790
+    "id": 2594375790,
+    "hours": 4
   },
   {
     "category": "films",
@@ -5709,7 +5851,8 @@
     "favourite": false,
     "link": "https://boxd.it/6JqY",
     "refreshed": false,
-    "id": 7318542266
+    "id": 7318542266,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5722,8 +5865,7 @@
     "link": "https://boxd.it/28qu",
     "refreshed": false,
     "id": 463961905,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -5736,8 +5878,7 @@
     "link": "https://boxd.it/21FC",
     "refreshed": false,
     "id": 9475999323,
-    "progress": 100,
-    "hours": 1.9
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -5749,7 +5890,8 @@
     "favourite": false,
     "link": "https://boxd.it/dR3i",
     "refreshed": false,
-    "id": 8453580060
+    "id": 8453580060,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5761,7 +5903,8 @@
     "favourite": false,
     "link": "https://boxd.it/dZ5m",
     "refreshed": false,
-    "id": 1924988355
+    "id": 1924988355,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5774,8 +5917,7 @@
     "link": "https://boxd.it/9yzm",
     "refreshed": false,
     "id": 8059703570,
-    "progress": 100,
-    "hours": 5.7
+    "hours": 3.8
   },
   {
     "category": "films",
@@ -5787,7 +5929,8 @@
     "favourite": false,
     "link": "https://boxd.it/5xme",
     "refreshed": false,
-    "id": 3901252398
+    "id": 3901252398,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -5799,7 +5942,8 @@
     "favourite": false,
     "link": "https://boxd.it/5a9m",
     "refreshed": false,
-    "id": 7854828888
+    "id": 7854828888,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -5812,8 +5956,7 @@
     "link": "https://boxd.it/8MHs",
     "refreshed": false,
     "id": 4717037617,
-    "progress": 100,
-    "hours": 1.6
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -5826,8 +5969,8 @@
     "link": "https://boxd.it/20BO",
     "refreshed": false,
     "id": 3227488558,
-    "progress": 100,
-    "hours": 3
+    "hours": 4.1,
+    "progress": 100
   },
   {
     "category": "films",
@@ -5839,7 +5982,8 @@
     "favourite": false,
     "link": "https://boxd.it/4srQ",
     "refreshed": false,
-    "id": 2137318019
+    "id": 2137318019,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5851,7 +5995,8 @@
     "favourite": false,
     "link": "https://boxd.it/29VI",
     "refreshed": false,
-    "id": 8254583998
+    "id": 8254583998,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -5863,7 +6008,8 @@
     "favourite": false,
     "link": "https://boxd.it/dRqG",
     "refreshed": false,
-    "id": 4462575680
+    "id": 4462575680,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -5875,7 +6021,8 @@
     "favourite": false,
     "link": "https://boxd.it/biYY",
     "refreshed": false,
-    "id": 3596754861
+    "id": 3596754861,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -5887,7 +6034,8 @@
     "favourite": false,
     "link": "https://boxd.it/bU66",
     "refreshed": false,
-    "id": 2416714797
+    "id": 2416714797,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -5900,8 +6048,7 @@
     "link": "https://boxd.it/bm2E",
     "refreshed": false,
     "id": 4353897020,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 2
   },
   {
     "category": "films",
@@ -5913,7 +6060,8 @@
     "favourite": false,
     "link": "https://boxd.it/bgbA",
     "refreshed": false,
-    "id": 4904466023
+    "id": 4904466023,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5926,8 +6074,7 @@
     "link": "https://boxd.it/9vEe",
     "refreshed": false,
     "id": 322222983,
-    "progress": 100,
-    "hours": 5.7
+    "hours": 7.5
   },
   {
     "category": "films",
@@ -5940,8 +6087,8 @@
     "link": "https://boxd.it/aZiu",
     "refreshed": false,
     "id": 6290731373,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 1.7,
+    "progress": 100
   },
   {
     "category": "films",
@@ -5954,8 +6101,7 @@
     "link": "https://boxd.it/fVJQ",
     "refreshed": false,
     "id": 8080860114,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 1.5
   },
   {
     "category": "films",
@@ -5967,7 +6113,8 @@
     "favourite": false,
     "link": "https://boxd.it/2awE",
     "refreshed": false,
-    "id": 6755183333
+    "id": 6755183333,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -5979,7 +6126,8 @@
     "favourite": false,
     "link": "https://boxd.it/dgRU",
     "refreshed": false,
-    "id": 1344715650
+    "id": 1344715650,
+    "hours": 2
   },
   {
     "category": "films",
@@ -5991,7 +6139,8 @@
     "favourite": false,
     "link": "https://boxd.it/1CBK",
     "refreshed": false,
-    "id": 2275815861
+    "id": 2275815861,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6004,8 +6153,8 @@
     "link": "https://boxd.it/17QY",
     "refreshed": false,
     "id": 607954203,
-    "progress": 100,
-    "hours": 1.5
+    "hours": 1.9,
+    "progress": 100
   },
   {
     "category": "films",
@@ -6017,7 +6166,8 @@
     "favourite": false,
     "link": "https://boxd.it/aZes",
     "refreshed": false,
-    "id": 166221746
+    "id": 166221746,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -6029,7 +6179,8 @@
     "favourite": false,
     "link": "https://boxd.it/f9a4",
     "refreshed": false,
-    "id": 7230722009
+    "id": 7230722009,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6042,8 +6193,7 @@
     "link": "https://boxd.it/e7Dm",
     "refreshed": false,
     "id": 5595153089,
-    "progress": 100,
-    "hours": 2.5
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -6056,8 +6206,7 @@
     "link": "https://boxd.it/dlLM",
     "refreshed": false,
     "id": 3614167577,
-    "progress": 100,
-    "hours": 3.9
+    "hours": 4
   },
   {
     "category": "films",
@@ -6069,7 +6218,8 @@
     "favourite": false,
     "link": "https://boxd.it/6bJM",
     "refreshed": false,
-    "id": 8309608687
+    "id": 8309608687,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -6082,7 +6232,6 @@
     "link": "https://boxd.it/cqUW",
     "refreshed": false,
     "id": 5446043997,
-    "progress": 100,
     "hours": 2
   },
   {
@@ -6095,7 +6244,8 @@
     "favourite": false,
     "link": "https://boxd.it/23MA",
     "refreshed": false,
-    "id": 7379864355
+    "id": 7379864355,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6107,7 +6257,8 @@
     "favourite": false,
     "link": "https://boxd.it/b8wA",
     "refreshed": false,
-    "id": 5670037463
+    "id": 5670037463,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6119,7 +6270,8 @@
     "favourite": false,
     "link": "https://boxd.it/bDw2",
     "refreshed": false,
-    "id": 2131460463
+    "id": 2131460463,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6128,12 +6280,11 @@
     "filmDuration": 100,
     "rewatchedCounter": 2,
     "rating": 3,
-    "favourite": true,
+    "favourite": false,
     "link": "https://boxd.it/i4gW",
     "refreshed": false,
     "id": 735580252,
-    "progress": 100,
-    "hours": null
+    "hours": 3.3
   },
   {
     "category": "films",
@@ -6145,7 +6296,8 @@
     "favourite": false,
     "link": "https://boxd.it/21ew",
     "refreshed": false,
-    "id": 6403223582
+    "id": 6403223582,
+    "hours": 2
   },
   {
     "category": "films",
@@ -6154,10 +6306,11 @@
     "filmDuration": 108,
     "rewatchedCounter": 1,
     "rating": 4,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/20n8",
     "refreshed": false,
-    "id": 6239466652
+    "id": 6239466652,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6170,8 +6323,7 @@
     "link": "https://boxd.it/d0Y6",
     "refreshed": false,
     "id": 5315474801,
-    "progress": 100,
-    "hours": 2.3
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6183,7 +6335,8 @@
     "favourite": false,
     "link": "https://boxd.it/2b7g",
     "refreshed": false,
-    "id": 8201126936
+    "id": 8201126936,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -6196,8 +6349,7 @@
     "link": "https://boxd.it/bHuY",
     "refreshed": false,
     "id": 4713058513,
-    "progress": 100,
-    "hours": 3
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6209,7 +6361,8 @@
     "favourite": false,
     "link": "https://boxd.it/2b6C",
     "refreshed": false,
-    "id": 8469036469
+    "id": 8469036469,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6222,8 +6375,7 @@
     "link": "https://boxd.it/9ru0",
     "refreshed": false,
     "id": 2951263238,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -6235,7 +6387,8 @@
     "favourite": false,
     "link": "https://boxd.it/37pC",
     "refreshed": false,
-    "id": 2991760844
+    "id": 2991760844,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6248,8 +6401,7 @@
     "link": "https://boxd.it/f21O",
     "refreshed": false,
     "id": 9158689934,
-    "progress": 100,
-    "hours": 2.2
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6261,7 +6413,8 @@
     "favourite": false,
     "link": "https://boxd.it/g3uO",
     "refreshed": false,
-    "id": 9552435396
+    "id": 9552435396,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6274,8 +6427,7 @@
     "link": "https://boxd.it/2a2O",
     "refreshed": false,
     "id": 7373700381,
-    "progress": 100,
-    "hours": null
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6288,8 +6440,7 @@
     "link": "https://boxd.it/9vE4",
     "refreshed": false,
     "id": 7977159023,
-    "progress": 100,
-    "hours": 9
+    "hours": 9.1
   },
   {
     "category": "films",
@@ -6302,8 +6453,7 @@
     "link": "https://boxd.it/2amk",
     "refreshed": false,
     "id": 7125755423,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -6315,7 +6465,8 @@
     "favourite": false,
     "link": "https://boxd.it/21PM",
     "refreshed": false,
-    "id": 6111446846
+    "id": 6111446846,
+    "hours": 1.6
   },
   {
     "category": "films",
@@ -6327,19 +6478,21 @@
     "favourite": false,
     "link": "https://boxd.it/gmFw",
     "refreshed": false,
-    "id": 5372498045
+    "id": 5372498045,
+    "hours": 2.2
   },
   {
     "category": "films",
     "title": "Green Book",
     "status": "completed",
     "filmDuration": 130,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/hErk",
     "refreshed": false,
-    "id": 3221704520
+    "id": 3221704520,
+    "hours": 4.3
   },
   {
     "category": "films",
@@ -6351,7 +6504,8 @@
     "favourite": false,
     "link": "https://boxd.it/fegG",
     "refreshed": false,
-    "id": 4532454595
+    "id": 4532454595,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6364,8 +6518,7 @@
     "link": "https://boxd.it/dnDA",
     "refreshed": false,
     "id": 4680877223,
-    "progress": 100,
-    "hours": 2.4
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -6378,7 +6531,6 @@
     "link": "https://boxd.it/kv0q",
     "refreshed": false,
     "id": 2692171032,
-    "progress": 100,
     "hours": 2
   },
   {
@@ -6391,7 +6543,8 @@
     "favourite": false,
     "link": "https://boxd.it/ceBS",
     "refreshed": false,
-    "id": 6851170516
+    "id": 6851170516,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6404,8 +6557,7 @@
     "link": "https://boxd.it/28MA",
     "refreshed": false,
     "id": 9080365304,
-    "progress": 100,
-    "hours": null
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6417,7 +6569,8 @@
     "favourite": false,
     "link": "https://boxd.it/29Nu",
     "refreshed": false,
-    "id": 5367224728
+    "id": 5367224728,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -6430,8 +6583,7 @@
     "link": "https://boxd.it/29OM",
     "refreshed": false,
     "id": 2635443660,
-    "progress": 100,
-    "hours": 1.8
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6443,7 +6595,8 @@
     "favourite": false,
     "link": "https://boxd.it/2b8y",
     "refreshed": false,
-    "id": 4388714167
+    "id": 4388714167,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6455,7 +6608,8 @@
     "favourite": false,
     "link": "https://boxd.it/87wo",
     "refreshed": false,
-    "id": 3522088722
+    "id": 3522088722,
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -6467,7 +6621,8 @@
     "favourite": false,
     "link": "https://boxd.it/28gY",
     "refreshed": false,
-    "id": 3209615164
+    "id": 3209615164,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6479,7 +6634,8 @@
     "favourite": false,
     "link": "https://boxd.it/2bcK",
     "refreshed": false,
-    "id": 1454532225
+    "id": 1454532225,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6491,7 +6647,8 @@
     "favourite": false,
     "link": "https://boxd.it/JY",
     "refreshed": false,
-    "id": 342210188
+    "id": 342210188,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -6503,7 +6660,8 @@
     "favourite": false,
     "link": "https://boxd.it/gH0O",
     "refreshed": false,
-    "id": 8842254888
+    "id": 8842254888,
+    "hours": 2.7
   },
   {
     "category": "films",
@@ -6515,31 +6673,34 @@
     "favourite": false,
     "link": "https://boxd.it/h4cS",
     "refreshed": false,
-    "id": 6482209177
+    "id": 6482209177,
+    "hours": 2
   },
   {
     "category": "films",
     "title": "Paragraph 78: Film One",
     "status": "completed",
     "filmDuration": 88,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/xoY",
     "refreshed": false,
-    "id": 9368718894
+    "id": 9368718894,
+    "hours": 2.9
   },
   {
     "category": "films",
     "title": "Paragraph 78. Film Two",
     "status": "completed",
     "filmDuration": 100,
-    "rewatchedCounter": 1,
+    "rewatchedCounter": 2,
     "rating": 3,
     "favourite": false,
     "link": "https://boxd.it/xou",
     "refreshed": false,
-    "id": 601115495
+    "id": 601115495,
+    "hours": 3.3
   },
   {
     "category": "films",
@@ -6551,7 +6712,8 @@
     "favourite": false,
     "link": "https://boxd.it/96YI",
     "refreshed": false,
-    "id": 6104976517
+    "id": 6104976517,
+    "hours": 2.1
   },
   {
     "category": "films",
@@ -6564,8 +6726,7 @@
     "link": "https://boxd.it/ce74",
     "refreshed": false,
     "id": 5887129247,
-    "progress": 100,
-    "hours": 1.6
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6578,8 +6739,7 @@
     "link": "https://boxd.it/72i",
     "refreshed": false,
     "id": 6197051567,
-    "progress": 100,
-    "hours": 4
+    "hours": 3.3
   },
   {
     "category": "films",
@@ -6591,7 +6751,8 @@
     "favourite": false,
     "link": "https://boxd.it/26BU",
     "refreshed": false,
-    "id": 4463772290
+    "id": 4463772290,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -6603,7 +6764,8 @@
     "favourite": false,
     "link": "https://boxd.it/jWEA",
     "refreshed": false,
-    "id": 3941459132
+    "id": 3941459132,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -6615,7 +6777,8 @@
     "favourite": false,
     "link": "https://boxd.it/5xlK",
     "refreshed": false,
-    "id": 2423807035
+    "id": 2423807035,
+    "hours": 2.4
   },
   {
     "category": "films",
@@ -6623,11 +6786,12 @@
     "status": "completed",
     "filmDuration": 133,
     "rewatchedCounter": 1,
-    "rating": 5,
+    "rating": 4,
     "favourite": false,
     "link": "https://boxd.it/hTha",
     "refreshed": false,
-    "id": 9996801799
+    "id": 9996801799,
+    "hours": 2.2
   },
   {
     "category": "films",
@@ -6639,7 +6803,8 @@
     "favourite": false,
     "link": "https://boxd.it/iYBQ",
     "refreshed": false,
-    "id": 8803664279
+    "id": 8803664279,
+    "hours": 1.9
   },
   {
     "category": "films",
@@ -6652,8 +6817,7 @@
     "link": "https://boxd.it/20WW",
     "refreshed": false,
     "id": 4264758248,
-    "progress": 100,
-    "hours": 3.6
+    "hours": 3.5
   },
   {
     "category": "films",
@@ -6665,7 +6829,8 @@
     "favourite": false,
     "link": "https://boxd.it/23Fk",
     "refreshed": false,
-    "id": 4169659757
+    "id": 4169659757,
+    "hours": 2.8
   },
   {
     "category": "films",
@@ -6677,7 +6842,8 @@
     "favourite": false,
     "link": "https://boxd.it/4E5i",
     "refreshed": false,
-    "id": 452401850
+    "id": 452401850,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6690,8 +6856,7 @@
     "link": "https://boxd.it/6JwC",
     "refreshed": false,
     "id": 4454456769,
-    "progress": 100,
-    "hours": 2.1
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -6704,8 +6869,7 @@
     "link": "https://boxd.it/i92q",
     "refreshed": false,
     "id": 8791605989,
-    "progress": 100,
-    "hours": 2.2
+    "hours": 1.7
   },
   {
     "category": "films",
@@ -6714,10 +6878,11 @@
     "filmDuration": 189,
     "rewatchedCounter": 1,
     "rating": 5,
-    "favourite": false,
+    "favourite": true,
     "link": "https://boxd.it/2agG",
     "refreshed": false,
-    "id": 2599314363
+    "id": 2599314363,
+    "hours": 3.1
   },
   {
     "category": "films",
@@ -6729,7 +6894,8 @@
     "favourite": false,
     "link": "https://boxd.it/leq4",
     "refreshed": false,
-    "id": 4921766402
+    "id": 4921766402,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6741,7 +6907,8 @@
     "favourite": false,
     "link": "https://boxd.it/2E8W",
     "refreshed": false,
-    "id": 9888022238
+    "id": 9888022238,
+    "hours": 1.8
   },
   {
     "category": "films",
@@ -6753,7 +6920,8 @@
     "favourite": false,
     "link": "https://boxd.it/gBtA",
     "refreshed": false,
-    "id": 6226054274
+    "id": 6226054274,
+    "hours": 2.5
   },
   {
     "category": "films",
@@ -6765,7 +6933,8 @@
     "favourite": false,
     "link": "https://boxd.it/i2tY",
     "refreshed": false,
-    "id": 7622473389
+    "id": 7622473389,
+    "hours": 2.3
   },
   {
     "category": "films",
@@ -6777,6 +6946,553 @@
     "favourite": false,
     "link": "https://boxd.it/mpjA",
     "refreshed": false,
-    "id": 2158381282
+    "id": 2158381282,
+    "hours": 1.9
+  },
+  {
+    "category": "films",
+    "title": "Bespredel",
+    "status": "completed",
+    "filmDuration": 102,
+    "rewatchedCounter": 2,
+    "minutes": 0,
+    "rating": 4,
+    "hours": 3.4,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 4296536748
+  },
+  {
+    "category": "films",
+    "title": "The Matrix Reloaded",
+    "status": "completed",
+    "filmDuration": 138,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 4,
+    "hours": 2.3,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 2289465621
+  },
+  {
+    "category": "films",
+    "title": "The Matrix Resurrections",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 8446943639
+  },
+  {
+    "category": "films",
+    "title": "Spider-Man 3 (2021)",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 6620924530
+  },
+  {
+    "category": "films",
+    "title": "Mission: Impossible 7",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 8495001155
+  },
+  {
+    "category": "films",
+    "title": "Dune (2021)",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 3397890005
+  },
+  {
+    "category": "films",
+    "title": "The Suicide Squad",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 4716032817
+  },
+  {
+    "category": "films",
+    "title": "Venom: Let There Be Carnage",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 252938626
+  },
+  {
+    "category": "films",
+    "title": "F9",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 612152230
+  },
+  {
+    "category": "films",
+    "title": "A Quiet Place Part II",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 6788412271
+  },
+  {
+    "category": "films",
+    "title": "No Time to Die",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 3976988912
+  },
+  {
+    "category": "films",
+    "title": "The King’s Man",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 1937588630
+  },
+  {
+    "category": "films",
+    "title": "Nobody",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 2486088655
+  },
+  {
+    "category": "films",
+    "title": "The Guard",
+    "status": "completed",
+    "filmDuration": 96,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 3,
+    "hours": 1.6,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 3997875631
+  },
+  {
+    "category": "films",
+    "title": "Mother",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "https://letterboxd.com/film/mother-2009/",
+    "refreshed": false,
+    "id": 7703741569
+  },
+  {
+    "category": "films",
+    "title": "Memories of Murder",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 9585941576
+  },
+  {
+    "category": "films",
+    "title": "The Truman Show",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 2023611394
+  },
+  {
+    "category": "films",
+    "title": "Baby Driver",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 7805965584
+  },
+  {
+    "category": "films",
+    "title": "A Beautiful Day in the Neighborhood",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 6570342792
+  },
+  {
+    "category": "films",
+    "title": "Lost in Translation",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 327675484
+  },
+  {
+    "category": "films",
+    "title": "The Lobster",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "https://letterboxd.com/film/the-lobster/",
+    "refreshed": false,
+    "id": 8433178820
+  },
+  {
+    "category": "films",
+    "title": "Casino",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "https://letterboxd.com/film/casino/",
+    "refreshed": false,
+    "id": 1338725048
+  },
+  {
+    "category": "films",
+    "title": "Black Widow",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 4856601923
+  },
+  {
+    "category": "films",
+    "title": "The Pursuit of Happyness",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 3670912787
+  },
+  {
+    "category": "films",
+    "title": "The Mule",
+    "status": "completed",
+    "filmDuration": 117,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 3,
+    "hours": 1.9,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 6808300031
+  },
+  {
+    "category": "films",
+    "title": "Calvary ",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 5395035648
+  },
+  {
+    "category": "films",
+    "title": "Gangs of New York",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 936964623
+  },
+  {
+    "category": "films",
+    "title": "Children of Men",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 556702230
+  },
+  {
+    "category": "films",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 1125577324
+  },
+  {
+    "category": "films",
+    "title": "There Will Be Blood",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 6120899276
+  },
+  {
+    "category": "films",
+    "title": "Nightcrawler",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 2659367747
+  },
+  {
+    "category": "films",
+    "title": "Zodiac ",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 8892399123
+  },
+  {
+    "category": "films",
+    "title": "Four Rooms",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 962282673
+  },
+  {
+    "category": "films",
+    "title": "The Judge",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 4746987077
+  },
+  {
+    "category": "films",
+    "title": "Enemy",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "https://letterboxd.com/film/enemy/",
+    "refreshed": false,
+    "id": 1413869960
+  },
+  {
+    "category": "films",
+    "title": "Reservoir Dogs",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 2749717789
+  },
+  {
+    "category": "films",
+    "title": "Whiplash ",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 4352113237
+  },
+  {
+    "category": "films",
+    "title": "Hunger ",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 9422962638
+  },
+  {
+    "category": "films",
+    "title": "Downfall",
+    "status": "plan_to_watch",
+    "filmDuration": 0,
+    "rewatchedCounter": 1,
+    "minutes": 0,
+    "rating": 0,
+    "hours": 0,
+    "favourite": false,
+    "link": "",
+    "refreshed": false,
+    "id": 7416587434
   }
 ]

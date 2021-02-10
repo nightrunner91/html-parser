@@ -33,7 +33,21 @@ async function processArray(array) {
 }
 
 
-processArray(films)
+//processArray(films)
+
+
+for (let index = 0; index < copy.length; index++) {
+  let inputMinutes = copy[index].filmDuration
+  let inputHours = parseFloat((inputMinutes / 60).toFixed(1))
+
+  let hours = parseFloat((inputHours + "").split(".")[0])
+  let decimals = parseFloat((inputHours + "").split(".")[1]) / 10 * 60
+
+  copy[index].durationHours = hours
+  copy[index].durationMinutes = decimals
+
+  delete copy[index].filmDuration
+}
 
 
 setTimeout(() => {
@@ -42,4 +56,4 @@ setTimeout(() => {
   fs.writeFile('assets/output.json', jsonOutput, function (err) {
     if (err) return console.log(err)
   })
-}, 30000)
+}, 1000)
